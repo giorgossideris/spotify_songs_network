@@ -1,0 +1,950 @@
+Label,Artist,Id,Track,Danceability,Energy,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration_ms,Genre
+Don't Dream It's Over,Crowded House,0,Don't Dream It's Over Crowded House,0.439,0.422,-17.227,0.0409,0.0148,4.84e-05,0.0697,0.551,81.833,236933,australian rock
+5 Years Time,Noah And The Whale,1,5 Years Time Noah And The Whale,0.803,0.548,-7.103,0.12,0.351,0.0,0.0953,0.75,121.942,214920,indie pop
+Alive,Pearl Jam,2,Alive Pearl Jam,0.284,0.875,-6.069,0.0422,0.00752,0.000461,0.402,0.595,75.009,340907,grunge
+Black,Pearl Jam,3,Black Pearl Jam,0.36,0.684,-6.457,0.0308,0.323,0.0,0.34,0.2,77.15,342653,grunge
+Born to Run,Bruce Springsteen,4,Born to Run Bruce Springsteen,0.27,0.944,-4.199,0.0975,0.00501,2.05e-05,0.116,0.606,146.347,269920,classic rock
+Even Flow,Pearl Jam,5,Even Flow Pearl Jam,0.394,0.944,-6.506,0.0761,0.00178,4.54e-06,0.298,0.265,105.338,292581,grunge
+Free Fallin',Tom Petty,6,Free Fallin' Tom Petty,0.623,0.449,-13.333,0.0253,0.212,0.0,0.0613,0.572,84.383,256000,album rock
+Hurt,Johnny Cash,7,Hurt Johnny Cash,0.534,0.392,-7.636,0.0267,0.649,0.000227,0.0948,0.163,90.379,216533,arkansas country
+Around The World,Daft Punk,8,Around The World Daft Punk,0.956,0.795,-5.311,0.15,0.00356,0.889,0.0906,0.841,121.294,429533,electro
+Digital Love,Daft Punk,9,Digital Love Daft Punk,0.644,0.664,-8.398,0.0332,0.048,0.867,0.342,0.53,124.726,301373,electro
+Harder Better Faster Stronger,Daft Punk,10,Harder Better Faster Stronger Daft Punk,0.817,0.716,-8.898,0.144,0.0427,0.00263,0.358,0.692,123.474,224693,electro
+One More Time,Daft Punk,11,One More Time Daft Punk,0.613,0.697,-8.618,0.133,0.0194,0.0,0.332,0.476,122.746,320357,electro
+Porcelain,Moby,12,Porcelain Moby,0.297,0.637,-7.926,0.0336,0.0014,0.18,0.247,0.332,94.73,241173,downtempo
+Sleepyhead,Passion Pit,13,Sleepyhead Passion Pit,0.568,0.719,-5.406,0.0354,0.0892,1.84e-06,0.233,0.539,106.036,174760,alternative dance
+Are You Gonna Go My Way,Lenny Kravitz,14,Are You Gonna Go My Way Lenny Kravitz,0.619,0.67,-10.322,0.0353,0.00165,0.0109,0.331,0.777,129.269,211933,permanent wave
+Bangarang (feat. Sirah),Skrillex,15,Bangarang (feat. Sirah) Skrillex,0.716,0.972,-2.302,0.196,0.0145,3.22e-05,0.317,0.576,110.026,215253,brostep
+Beat It - Single Version,Michael Jackson,16,Beat It - Single Version Michael Jackson,0.672,0.633,-11.092,0.0442,0.000492,0.324,0.176,0.855,138.936,260987,karaoke
+Billie Jean - Single Version,Michael Jackson,17,Billie Jean - Single Version Michael Jackson,0.866,0.386,-8.925,0.0752,0.00331,0.108,0.0504,0.964,115.917,286585,karaoke
+Drive,Incubus,18,Drive Incubus,0.645,0.792,-7.34,0.036,0.0562,0.0121,0.119,0.666,90.565,232453,alternative metal
+Electric Feel,MGMT,19,Electric Feel MGMT,0.763,0.803,-3.713,0.0351,0.0709,0.285,0.348,0.561,103.04,229640,alternative dance
+First Of The Year (Equinox),Skrillex,20,First Of The Year (Equinox) Skrillex,0.429,0.948,-3.657,0.227,0.00711,0.0148,0.0812,0.55,115.785,261517,brostep
+Heart-Shaped Box,Nirvana,21,Heart-Shaped Box Nirvana,0.256,0.641,-10.283,0.0552,0.199,0.0329,0.0853,0.382,203.006,281160,alternative rock
+I Was Made For Lovin' You,KISS,22,I Was Made For Lovin' You KISS,0.768,0.852,-6.215,0.038,0.214,7.36e-05,0.0723,0.867,128.373,271240,album rock
+In The End,Linkin Park,23,In The End Linkin Park,0.556,0.864,-5.87,0.0584,0.00958,0.0,0.209,0.4,105.143,216880,alternative metal
+Nightcall,Kavinsky,24,Nightcall Kavinsky,0.532,0.874,-5.183,0.0482,0.00842,0.012,0.452,0.361,91.038,258413,electro house
+No One Knows,Queens Of The Stone Age,25,No One Knows Queens Of The Stone Age,0.507,0.588,-4.881,0.0641,0.0359,0.000129,0.373,0.637,170.889,278707,alternative metal
+Not In Love,Crystal Castles,26,Not In Love Crystal Castles,0.477,0.98,-4.204,0.0887,0.000834,0.00963,0.357,0.199,135.902,226987,alternative dance
+Numb,Linkin Park,27,Numb Linkin Park,0.496,0.863,-4.153,0.0381,0.0046,0.0,0.639,0.243,110.018,185587,alternative metal
+Sail,AWOLNATION,28,Sail AWOLNATION,0.826,0.436,-9.583,0.0558,0.441,0.615,0.0964,0.272,119.051,259093,la indie
+Smack My Bitch Up,The Prodigy,29,Smack My Bitch Up The Prodigy,0.604,0.995,-3.641,0.164,0.00306,0.626,0.109,0.262,136.216,343387,big beat
+Smells Like Teen Spirit,Nirvana,30,Smells Like Teen Spirit Nirvana,0.502,0.912,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920,alternative rock
+Somebody That I Used To Know,Gotye,31,Somebody That I Used To Know Gotye,0.864,0.495,-7.036,0.037,0.591,0.000133,0.0992,0.72,129.062,244973,australian pop
+Take Me Out,Franz Ferdinand,32,Take Me Out Franz Ferdinand,0.277,0.663,-8.821,0.0377,0.000409,0.00051,0.136,0.527,104.561,237027,alternative dance
+Take a Walk,Passion Pit,33,Take a Walk Passion Pit,0.566,0.755,-5.526,0.0368,0.0338,0.0,0.315,0.445,101.006,264493,alternative dance
+Teardrop,Massive Attack,34,Teardrop Massive Attack,0.615,0.419,-8.8,0.0395,0.0173,0.497,0.135,0.216,76.997,330773,big beat
+The Kids Aren't Alright,The Offspring,35,The Kids Aren't Alright The Offspring,0.523,0.943,-4.203,0.0337,0.00704,3.81e-05,0.0579,0.766,99.607,180160,alternative metal
+Thriller,Michael Jackson,36,Thriller Michael Jackson,0.773,0.859,-4.913,0.0747,0.0855,0.00018,0.914,0.813,118.458,357267,pop
+Time to Pretend,MGMT,37,Time to Pretend MGMT,0.438,0.94,-3.249,0.0452,8.74e-05,0.0777,0.3,0.421,100.99,261000,alternative dance
+"You're Gonna Go Far, Kid",The Offspring,38,"You're Gonna Go Far, Kid The Offspring",0.55,0.917,-3.159,0.0638,0.00428,0.0,0.197,0.601,126.115,177827,alternative metal
+For What It's Worth,Buffalo Springfield,39,For What It's Worth Buffalo Springfield,0.653,0.519,-10.164,0.0497,0.406,0.0209,0.101,0.822,98.883,153693,blues rock
+(Don't Fear) The Reaper,Blue Oyster Cult,40,(Don't Fear) The Reaper Blue Oyster Cult,0.333,0.927,-8.55,0.0733,0.0029,0.000208,0.297,0.385,141.466,308120,album rock
+American Idiot,Green Day,41,American Idiot Green Day,0.38,0.988,-2.042,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113,176346,permanent wave
+Are You Gonna Be My Girl,Jet,42,Are You Gonna Be My Girl Jet,0.613,0.953,-3.435,0.0855,0.00148,0.000582,0.152,0.537,105.046,213800,alternative rock
+Baba O'Riley,The Who,43,Baba O'Riley The Who,0.489,0.724,-8.367,0.0352,0.313,0.185,0.287,0.15,117.292,300400,album rock
+Best Of You,Foo Fighters,44,Best Of You Foo Fighters,0.366,0.94,-5.119,0.0696,0.000769,9.42e-05,0.188,0.369,130.198,255627,alternative metal
+Born in the U.S.A.,Bruce Springsteen,45,Born in the U.S.A. Bruce Springsteen,0.398,0.952,-6.042,0.061,0.000373,7.75e-05,0.1,0.584,122.093,278680,classic rock
+Chop Suey!,System Of A Down,46,Chop Suey! System Of A Down,0.417,0.934,-3.908,0.119,0.000278,0.0015,0.132,0.287,127.066,210240,alternative metal
+Clint Eastwood,Gorillaz,47,Clint Eastwood Gorillaz,0.663,0.694,-8.627,0.171,0.0253,0.0,0.0698,0.525,167.953,340920,alternative hip hop
+Closer,Nine Inch Nails,48,Closer Nine Inch Nails,0.547,0.714,-8.628,0.044,0.000242,0.636,0.122,0.541,89.996,373000,alternative metal
+Come As You Are,Nirvana,49,Come As You Are Nirvana,0.5,0.824,-5.846,0.0388,0.00016,0.00161,0.0916,0.539,120.125,218920,alternative rock
+Could You Be Loved,Bob Marley & The Wailers,50,Could You Be Loved Bob Marley & The Wailers,0.916,0.72,-8.548,0.1,0.36,0.00016,0.0958,0.76,103.312,237000,reggae
+Creep,Radiohead,51,Creep Radiohead,0.515,0.43,-9.935,0.0372,0.0097,0.000133,0.129,0.104,91.844,238640,alternative rock
+Everlong,Foo Fighters,52,Everlong Foo Fighters,0.413,0.881,-5.541,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066,250547,alternative metal
+Feel Good Inc,Gorillaz,53,Feel Good Inc Gorillaz,0.818,0.705,-6.679,0.177,0.00836,0.00233,0.613,0.772,138.559,222640,alternative hip hop
+Fortunate Son,Creedence Clearwater Revival,54,Fortunate Son Creedence Clearwater Revival,0.64,0.663,-7.516,0.0374,0.201,0.00806,0.152,0.663,132.77,140773,album rock
+Get Lucky - Radio Edit,Daft Punk,55,Get Lucky - Radio Edit Daft Punk,0.794,0.811,-8.966,0.038,0.0426,1.07e-06,0.101,0.862,116.047,248413,electro
+Gimme Shelter,The Rolling Stones,56,Gimme Shelter The Rolling Stones,0.634,0.63,-8.277,0.031,0.447,0.039,0.17,0.489,118.628,270773,british invasion
+Hate To Say I Told You So,The Hives,57,Hate To Say I Told You So The Hives,0.451,0.929,-5.021,0.0549,0.00109,0.00785,0.442,0.378,135.767,199760,alternative rock
+I Want You Back,Jackson 5,58,I Want You Back Jackson 5,0.469,0.538,-13.559,0.0571,0.305,0.00012,0.37,0.886,196.605,176333,adult standards
+Intro,The xx,59,Intro The xx,0.617,0.778,-8.872,0.027,0.459,0.925,0.128,0.152,100.363,127920,downtempo
+Island In The Sun,Weezer,60,Island In The Sun Weezer,0.654,0.81,-6.26,0.0288,0.00719,0.00251,0.165,0.661,114.623,200307,alternative rock
+It's My Life,Bon Jovi,61,It's My Life Bon Jovi,0.551,0.913,-4.063,0.0466,0.0263,1.35e-05,0.347,0.544,119.992,224493,glam metal
+Jerk It Out,Caesars,62,Jerk It Out Caesars,0.58,0.981,-2.603,0.06,0.0171,1.07e-05,0.386,0.861,134.007,195667,swedish indie rock
+Jump,Van Halen,63,Jump Van Halen,0.572,0.835,-6.219,0.0317,0.171,0.000377,0.0702,0.795,129.981,241600,album rock
+Karma Police,Radiohead,64,Karma Police Radiohead,0.36,0.501,-9.129,0.0258,0.0638,9.32e-05,0.172,0.324,74.807,264067,alternative rock
+Kids,MGMT,65,Kids MGMT,0.451,0.931,-3.871,0.0719,0.00076,0.0049,0.361,0.172,122.961,302840,alternative dance
+Killing In The Name,Rage Against The Machine,66,Killing In The Name Rage Against The Machine,0.466,0.833,-4.215,0.304,0.0266,0.0,0.0327,0.661,88.785,313573,alternative metal
+Knockin' On Heaven's Door,Guns N' Roses,67,Knockin' On Heaven's Door Guns N' Roses,0.496,0.739,-7.193,0.0415,0.0211,0.00444,0.106,0.378,132.41,336000,glam metal
+La Grange,ZZ Top,68,La Grange ZZ Top,0.545,0.64,-9.937,0.224,0.00249,0.0304,0.196,0.606,80.544,230480,album rock
+Last Resort,Papa Roach,69,Last Resort Papa Roach,0.589,0.89,-3.719,0.0603,0.000481,0.00082,0.201,0.692,90.598,199907,alternative metal
+Layla,Eric Clapton,70,Layla Eric Clapton,0.558,0.524,-11.626,0.0459,0.321,0.000952,0.94,0.636,93.654,289027,album rock
+Livin' On A Prayer,Bon Jovi,71,Livin' On A Prayer Bon Jovi,0.532,0.887,-3.757,0.0335,0.0778,0.000214,0.294,0.795,122.511,249293,glam metal
+Midnight City,M83,72,Midnight City M83,0.526,0.712,-6.525,0.0356,0.0161,0.0,0.179,0.32,105.009,241440,french shoegaze
+More Than a Feeling,Boston,73,More Than a Feeling Boston,0.377,0.681,-8.039,0.0298,0.00088,0.0023,0.0504,0.285,108.789,285133,album rock
+My Favourite Game,The Cardigans,74,My Favourite Game The Cardigans,0.586,0.777,-6.185,0.0303,4.78e-05,0.00147,0.0729,0.424,143.339,220468,dance pop
+Paranoid Android,Radiohead,75,Paranoid Android Radiohead,0.251,0.848,-6.501,0.0579,0.0377,0.00591,0.0545,0.207,163.709,387213,alternative rock
+Punching In A Dream,The Naked And Famous,76,Punching In A Dream The Naked And Famous,0.473,0.883,-3.65,0.047,0.00201,0.000967,0.142,0.164,115.048,238133,alternative dance
+Purple Haze,Jimi Hendrix,77,Purple Haze Jimi Hendrix,0.533,0.905,-5.27,0.0754,0.00876,0.578,0.0698,0.486,108.9,170813,acid rock
+Pursuit Of Happiness (nightmare),Kid Cudi,78,Pursuit Of Happiness (nightmare) Kid Cudi,0.63,0.605,-8.951,0.0414,0.484,9.29e-05,0.298,0.266,115.277,295293,indietronica
+Rape Me,Nirvana,79,Rape Me Nirvana,0.42,0.746,-10.628,0.0467,0.0141,0.0,0.0661,0.229,111.886,170000,alternative rock
+Roxanne,The Police,80,Roxanne The Police,0.618,0.748,-8.905,0.358,0.0384,4.1e-06,0.0473,0.663,134.114,191947,album rock
+Seven Nation Army,The White Stripes,81,Seven Nation Army The White Stripes,0.743,0.446,-7.807,0.0683,0.0039,0.118,0.337,0.278,123.596,232107,alternative rock
+Something Good,alt-J,82,Something Good alt-J,0.682,0.581,-10.339,0.0295,0.714,0.324,0.0802,0.539,108.981,217320,indie rock
+Sultans Of Swing,Dire Straits,83,Sultans Of Swing Dire Straits,0.73,0.868,-7.325,0.0288,0.0632,0.0661,0.318,0.923,148.217,350400,album rock
+Sunday Bloody Sunday,U2,84,Sunday Bloody Sunday U2,0.543,0.944,-7.495,0.0543,0.402,0.000564,0.0373,0.735,101.174,279440,irish rock
+Sweet Child O' Mine,Guns N' Roses,85,Sweet Child O' Mine Guns N' Roses,0.446,0.952,-5.321,0.0523,0.0901,0.0857,0.112,0.624,125.303,356067,glam metal
+Sweet Home Alabama,Lynyrd Skynyrd,86,Sweet Home Alabama Lynyrd Skynyrd,0.596,0.605,-12.145,0.0255,0.181,0.000331,0.0863,0.886,97.798,283800,album rock
+The Passenger,Iggy Pop,87,The Passenger Iggy Pop,0.498,0.889,-5.413,0.0546,0.0947,1.62e-06,0.733,0.696,134.88,283360,alternative rock
+Toxicity,System Of A Down,88,Toxicity System Of A Down,0.413,0.873,-4.151,0.0536,0.000264,0.00249,0.204,0.48,116.68,218933,alternative metal
+Under The Bridge,Red Hot Chili Peppers,89,Under The Bridge Red Hot Chili Peppers,0.559,0.345,-13.496,0.0459,0.0576,0.000105,0.141,0.458,84.581,264307,alternative rock
+Wake Me Up When September Ends,Green Day,90,Wake Me Up When September Ends Green Day,0.546,0.814,-5.146,0.0314,0.023,0.0,0.0972,0.146,104.98,285653,permanent wave
+Where Is My Mind?,Pixies,91,Where Is My Mind? Pixies,0.519,0.441,-14.178,0.0353,0.0204,0.000453,0.076,0.25,81.334,234973,alternative rock
+You Give Love A Bad Name,Bon Jovi,92,You Give Love A Bad Name Bon Jovi,0.541,0.96,-2.947,0.0505,0.0663,2.25e-06,0.344,0.812,122.803,222707,glam metal
+Zombie,The Cranberries,93,Zombie The Cranberries,0.309,0.649,-8.994,0.035,0.0158,0.00591,0.367,0.312,166.915,306440,irish rock
+Chocolate,The 1975,94,Chocolate The 1975,0.591,0.94,-4.341,0.0522,0.00391,0.0,0.383,0.676,100.043,224640,modern alternative rock
+Flaws,Bastille,95,Flaws Bastille,0.57,0.657,-6.987,0.0356,0.405,1.86e-06,0.0723,0.41,144.247,218800,metropopolis
+Hey Brother,Avicii,96,Hey Brother Avicii,0.545,0.78,-4.867,0.0436,0.0309,4.64e-05,0.0828,0.458,125.014,255093,dance pop
+I See Fire,Ed Sheeran,97,I See Fire Ed Sheeran,0.633,0.0519,-21.107,0.0365,0.562,0.0,0.097,0.204,76.034,300747,pop
+Mardy Bum,Arctic Monkeys,98,Mardy Bum Arctic Monkeys,0.634,0.599,-5.447,0.0365,0.0288,0.0,0.197,0.312,112.215,175440,garage rock
+Mr. Brightside,The Killers,99,Mr. Brightside The Killers,0.356,0.924,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587,alternative rock
+Naive,The Kooks,100,Naive The Kooks,0.547,0.816,-6.165,0.0624,0.0688,0.0,0.127,0.722,102.765,203507,brighton indie
+R U Mine?,Arctic Monkeys,101,R U Mine? Arctic Monkeys,0.288,0.758,-5.692,0.0371,0.00616,0.0,0.303,0.619,97.094,201726,garage rock
+Recover,CHVRCHES,102,Recover CHVRCHES,0.419,0.584,-6.473,0.0557,0.00493,0.0,0.364,0.166,170.054,225853,electropop
+Riptide,Vance Joy,103,Riptide Vance Joy,0.484,0.731,-6.694,0.0379,0.431,0.0,0.151,0.51,101.654,204280,folk-pop
+Same Love - feat. Mary Lambert,Macklemore & Ryan Lewis,104,Same Love - feat. Mary Lambert Macklemore & Ryan Lewis,0.688,0.473,-9.059,0.167,0.716,4.46e-05,0.104,0.299,84.958,318525,pop
+Say Something,A Great Big World,105,Say Something A Great Big World,0.407,0.147,-8.822,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,229400,pop
+The Funeral,Band of Horses,106,The Funeral Band of Horses,0.319,0.757,-6.117,0.0432,0.016,0.0,0.102,0.101,122.465,322173,indie folk
+The Mother We Share,CHVRCHES,107,The Mother We Share CHVRCHES,0.46,0.686,-6.43,0.0301,0.0324,4.45e-06,0.126,0.338,173.829,191294,electropop
+Trumpets,Jason Derulo,108,Trumpets Jason Derulo,0.635,0.691,-4.862,0.258,0.555,0.0,0.097,0.638,82.142,217419,dance pop
+When The Sun Goes Down,Arctic Monkeys,109,When The Sun Goes Down Arctic Monkeys,0.348,0.875,-4.758,0.199,0.0341,0.0,0.117,0.407,169.152,202133,garage rock
+Why'd You Only Call Me When You're High?,Arctic Monkeys,110,Why'd You Only Call Me When You're High? Arctic Monkeys,0.691,0.631,-6.478,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,161124,garage rock
+Wonderwall,Oasis,111,Wonderwall Oasis,0.375,0.893,-4.097,0.0406,0.000509,0.0,0.187,0.434,174.323,258773,beatlesque
+Falling,Haim,112,Falling Haim,0.741,0.894,-5.648,0.069,0.076,4.89e-05,0.0835,0.297,111.969,257733,art pop
+Gun,CHVRCHES,113,Gun CHVRCHES,0.661,0.778,-7.248,0.0417,0.0051,0.000221,0.284,0.462,119.995,233987,electropop
+On Top Of The World,Imagine Dragons,114,On Top Of The World Imagine Dragons,0.635,0.926,-5.589,0.151,0.0893,4.53e-06,0.0928,0.761,100.048,189840,modern rock
+The A Team,Ed Sheeran,115,The A Team Ed Sheeran,0.642,0.289,-9.918,0.0367,0.669,0.0,0.18,0.407,84.996,258373,pop
+Don't,Ed Sheeran,116,Don't Ed Sheeran,0.806,0.608,-7.008,0.0659,0.0113,0.0,0.635,0.849,95.049,219840,pop
+Sing,Ed Sheeran,117,Sing Ed Sheeran,0.818,0.67,-4.451,0.0472,0.304,1.22e-06,0.0601,0.939,119.988,235382,pop
+Summer,Calvin Harris,118,Summer Calvin Harris,0.596,0.856,-3.556,0.0346,0.0211,0.0178,0.141,0.743,127.949,222533,dance pop
+Thinking Out Loud,Ed Sheeran,119,Thinking Out Loud Ed Sheeran,0.781,0.445,-6.061,0.0295,0.474,0.0,0.184,0.591,78.998,281560,pop
+Fix You,Coldplay,120,Fix You Coldplay,0.209,0.417,-8.74,0.0338,0.164,0.00196,0.113,0.124,138.178,295533,permanent wave
+Need You Now,Lady Antebellum,121,Need You Now Lady Antebellum,0.587,0.622,-5.535,0.0303,0.0927,0.000636,0.2,0.231,107.943,277573,contemporary country
+Another Love,Tom Odell,122,Another Love Tom Odell,0.445,0.537,-8.532,0.04,0.695,1.6e-05,0.0941,0.131,122.764,244360,chill pop
+Best Thing I Never Had,Beyoncé,123,Best Thing I Never Had Beyoncé,0.545,0.649,-4.062,0.0324,0.143,1.57e-05,0.0894,0.297,99.099,253747,dance pop
+Counting Stars,OneRepublic,124,Counting Stars OneRepublic,0.664,0.705,-4.972,0.0382,0.0654,0.0,0.115,0.477,122.017,257840,dance pop
+Drive By,Train,125,Drive By Train,0.765,0.837,-3.113,0.032,0.00107,1.06e-05,0.0801,0.721,122.028,195973,dance pop
+Drunk in Love,Beyoncé,126,Drunk in Love Beyoncé,0.589,0.621,-6.902,0.0468,0.00969,0.00104,0.181,0.401,140.03,323480,dance pop
+Fast Car,Tracy Chapman,127,Fast Car Tracy Chapman,0.711,0.292,-15.523,0.037,0.313,0.0,0.131,0.194,103.951,296800,folk
+Feel so Close - Radio Edit,Calvin Harris,128,Feel so Close - Radio Edit Calvin Harris,0.707,0.924,-2.842,0.031,0.000972,0.00703,0.204,0.919,127.937,206413,dance pop
+If You Wanna,The Vaccines,129,If You Wanna The Vaccines,0.353,0.866,-3.274,0.0392,3.03e-05,3e-05,0.295,0.544,165.215,174013,indie rock
+Iris,The Goo Goo Dolls,130,Iris The Goo Goo Dolls,0.315,0.715,-8.072,0.0362,0.00125,7.97e-06,0.0942,0.497,155.925,289533,alternative rock
+Last Friday Night (T.G.I.F.),Katy Perry,131,Last Friday Night (T.G.I.F.) Katy Perry,0.652,0.812,-3.797,0.0409,0.00125,3.01e-05,0.667,0.72,126.023,230733,dance pop
+Let Her Go,Passenger,132,Let Her Go Passenger,0.479,0.545,-7.346,0.0688,0.365,0.0,0.0963,0.243,74.897,252733,folk-pop
+Mushaboom,Feist,133,Mushaboom Feist,0.731,0.523,-8.731,0.0335,0.302,0.00204,0.0672,0.837,88.756,224507,art pop
+Payphone,Maroon 5,134,Payphone Maroon 5,0.739,0.756,-4.828,0.0394,0.0136,0.0,0.37,0.523,110.028,231387,pop
+Story of My Life,One Direction,135,Story of My Life One Direction,0.6,0.663,-5.802,0.0477,0.225,0.0,0.119,0.286,121.07,245493,boy band
+Sweet Disposition,The Temper Trap,136,Sweet Disposition The Temper Trap,0.531,0.821,-6.812,0.0439,0.0701,0.171,0.124,0.34,129.139,230800,alternative dance
+Teenage Dream,Katy Perry,137,Teenage Dream Katy Perry,0.719,0.798,-4.582,0.0361,0.0162,2.34e-06,0.134,0.591,120.011,227741,dance pop
+Wake Me Up,Avicii,138,Wake Me Up Avicii,0.532,0.783,-5.697,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427,dance pop
+Let It Go,Idina Menzel,139,Let It Go Idina Menzel,0.543,0.485,-6.85,0.0305,0.558,0.0,0.12,0.371,136.961,223840,hollywood
+Better Together,Jack Johnson,140,Better Together Jack Johnson,0.868,0.347,-9.529,0.0536,0.308,2e-05,0.11,0.659,110.059,207680,neo mellow
+Good Life,OneRepublic,141,Good Life OneRepublic,0.634,0.69,-7.804,0.052,0.0771,0.0,0.132,0.645,94.988,253307,dance pop
+"Hey, Soul Sister",Train,142,"Hey, Soul Sister Train",0.673,0.886,-4.44,0.0431,0.185,0.0,0.0826,0.795,97.012,216773,dance pop
+Princess of China,Coldplay,143,Princess of China Coldplay,0.42,0.69,-6.221,0.0347,0.00385,0.015,0.287,0.237,85.014,239216,pop
+The Only Exception,Paramore,144,The Only Exception Paramore,0.452,0.563,-6.607,0.0272,0.144,0.0,0.143,0.209,137.715,267653,candy pop
+Whistle,Flo Rida,145,Whistle Flo Rida,0.747,0.937,-5.746,0.0453,0.0208,0.0,0.29,0.739,103.976,224653,dance pop
+"Dance, Dance",Fall Out Boy,146,"Dance, Dance Fall Out Boy",0.622,0.961,-3.198,0.154,0.00523,0.0,0.0854,0.449,114.452,180267,emo
+Don't Stop Believin',Journey,147,Don't Stop Believin' Journey,0.5,0.748,-9.072,0.0363,0.127,0.0,0.447,0.514,118.852,250987,album rock
+Animals,Maroon 5,148,Animals Maroon 5,0.279,0.742,-6.46,0.0898,0.000185,0.0,0.593,0.328,189.868,231013,pop
+Bang Bang,Jessie J,149,Bang Bang Jessie J,0.706,0.786,-3.417,0.091,0.26,0.0,0.38,0.751,150.028,199387,pop
+Budapest,George Ezra,150,Budapest George Ezra,0.717,0.455,-8.303,0.0276,0.0846,0.0,0.11,0.389,127.812,200733,folk-pop
+Cool Kids,Echosmith,151,Cool Kids Echosmith,0.719,0.671,-6.279,0.0336,0.0372,8.21e-06,0.12,0.786,130.027,237627,dance pop
+First Day Of My Life,Bright Eyes,152,First Day Of My Life Bright Eyes,0.596,0.253,-14.369,0.0349,0.896,5.17e-05,0.102,0.368,95.162,188878,indie folk
+Geronimo,Sheppard,153,Geronimo Sheppard,0.705,0.78,-6.267,0.0805,0.456,0.00152,0.115,0.457,142.028,218228,australian indie
+I'm Not The Only One,Sam Smith,154,I'm Not The Only One Sam Smith,0.677,0.485,-5.795,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,239317,dance pop
+Rude,Magic!,155,Rude Magic!,0.773,0.758,-4.993,0.0381,0.0422,0.0,0.305,0.925,144.033,224840,reggae fusion
+Shut Up and Dance,Walk the Moon,156,Shut Up and Dance Walk the Moon,0.578,0.866,-3.804,0.0619,0.00701,0.0,0.257,0.619,128.038,199080,dance pop
+Take Me to Church,Hozier,157,Take Me to Church Hozier,0.566,0.664,-5.303,0.0464,0.634,0.0,0.116,0.437,128.945,241693,irish singer-songwriter
+Clarity,Zedd,158,Clarity Zedd,0.509,0.781,-3.48,0.072,0.0398,0.0,0.0749,0.176,128.0,271427,electropop
+Don't You Worry Child Radio Edit,Swedish House Mafia,159,Don't You Worry Child Radio Edit Swedish House Mafia,0.612,0.84,-3.145,0.0509,0.112,0.0,0.116,0.438,129.042,212862,dance pop
+Save the World,Swedish House Mafia,160,Save the World Swedish House Mafia,0.507,0.665,-7.598,0.0474,0.0144,0.0,0.0759,0.4,126.879,213338,dance pop
+Wildfire,SBTRKT,161,Wildfire SBTRKT,0.841,0.481,-7.188,0.387,0.0308,0.000515,0.0896,0.341,139.574,201000,new rave
+Money On My Mind,Sam Smith,162,Money On My Mind Sam Smith,0.688,0.841,-5.217,0.179,0.204,0.000295,0.229,0.743,133.912,192670,dance pop
+No Diggity,Blackstreet,163,No Diggity Blackstreet,0.867,0.646,-4.674,0.288,0.303,0.0,0.279,0.67,88.634,304600,rap
+Plush,Stone Temple Pilots,164,Plush Stone Temple Pilots,0.426,0.94,-5.279,0.0423,0.00671,1.72e-06,0.14,0.466,144.49,313947,alternative metal
+Semi-Charmed Life,Third Eye Blind,165,Semi-Charmed Life Third Eye Blind,0.64,0.864,-6.576,0.0314,0.00832,0.0,0.123,0.701,102.026,268360,alternative rock
+Stay High - Habits Remix,Tove Lo,166,Stay High - Habits Remix Tove Lo,0.739,0.719,-7.007,0.0368,0.00122,0.821,0.113,0.0672,121.002,258760,art pop
+Stolen Dance,Milky Chance,167,Stolen Dance Milky Chance,0.885,0.581,-8.813,0.0378,0.427,0.000204,0.0759,0.728,114.016,313684,german pop
+Welcome To The Black Parade,My Chemical Romance,168,Welcome To The Black Parade My Chemical Romance,0.217,0.905,-4.103,0.0752,0.000289,0.00011,0.222,0.236,96.95,311107,emo
+Left Hand Free,alt-J,169,Left Hand Free alt-J,0.697,0.877,-4.465,0.0462,0.462,0.00943,0.083,0.802,101.99,173631,indie rock
+Cannonball,The Breeders,170,Cannonball The Breeders,0.502,0.758,-9.76,0.0407,0.00915,0.783,0.284,0.729,112.499,213693,alternative pop
+The Sound of Silence,Simon & Garfunkel,171,The Sound of Silence Simon & Garfunkel,0.525,0.216,-13.551,0.0301,0.837,0.0,0.107,0.328,106.761,185413,classic rock
+Instant Crush,Daft Punk,172,Instant Crush Daft Punk,0.775,0.585,-9.516,0.0271,0.0422,0.619,0.077,0.518,109.942,337560,electro
+Take Care,Drake,173,Take Care Drake,0.629,0.515,-10.358,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,277387,canadian hip hop
+Walking On Sunshine,Katrina & The Waves,174,Walking On Sunshine Katrina & The Waves,0.596,0.869,-11.97,0.037,0.0116,0.173,0.0678,0.944,109.902,238733,new wave pop
+Whole Lotta Love,Led Zeppelin,175,Whole Lotta Love Led Zeppelin,0.412,0.902,-11.6,0.405,0.0484,0.131,0.405,0.422,89.74,333893,album rock
+XO,Beyoncé,176,XO Beyoncé,0.47,0.792,-8.932,0.26,0.171,1.28e-06,0.313,0.214,170.085,215947,dance pop
+Bloodbuzz Ohio,The National,177,Bloodbuzz Ohio The National,0.402,0.835,-6.367,0.043,0.0558,0.18,0.103,0.69,157.066,275933,indie rock
+Heartbeats,José González,178,Heartbeats José González,0.589,0.177,-14.891,0.0325,0.977,0.714,0.0958,0.311,88.409,161680,gothenburg indie
+I Need My Girl,The National,179,I Need My Girl The National,0.52,0.436,-11.508,0.0355,0.865,0.0651,0.123,0.114,126.053,245240,indie rock
+I Will Follow You Into The Dark,Death Cab for Cutie,180,I Will Follow You Into The Dark Death Cab for Cutie,0.517,0.206,-12.233,0.0421,0.924,0.0,0.118,0.489,80.401,189187,alternative rock
+Mykonos,Fleet Foxes,181,Mykonos Fleet Foxes,0.3,0.452,-9.298,0.0305,0.395,0.000834,0.137,0.342,82.985,275307,chamber pop
+New Slang,The Shins,182,New Slang The Shins,0.67,0.403,-10.623,0.031,0.753,0.0903,0.0858,0.622,129.984,230867,albuquerque indie
+Simple Song,The Shins,183,Simple Song The Shins,0.546,0.878,-5.137,0.0525,0.0133,0.0,0.135,0.35,119.945,255400,albuquerque indie
+Soul Meets Body,Death Cab for Cutie,184,Soul Meets Body Death Cab for Cutie,0.621,0.853,-5.735,0.0253,0.0767,3.26e-06,0.0893,0.714,128.142,229413,alternative rock
+Young Folks,Peter Bjorn And John,185,Young Folks Peter Bjorn And John,0.699,0.812,-6.005,0.0377,0.0164,0.000763,0.105,0.662,138.185,276693,alternative dance
+Youth,Daughter,186,Youth Daughter,0.4,0.525,-11.294,0.0435,0.887,0.00543,0.117,0.408,146.977,253013,art pop
+Bailando - Spanish Version,Enrique Iglesias,187,Bailando - Spanish Version Enrique Iglesias,0.723,0.777,-3.503,0.108,0.0426,3.68e-06,0.0451,0.961,91.017,243413,latin
+Danza Kuduro,Don Omar,188,Danza Kuduro Don Omar,0.4,0.915,-4.89,0.28,0.0846,0.0,0.0503,0.878,88.917,198773,reggaeton
+Firestone,Kygo,189,Firestone Kygo,0.704,0.634,-7.374,0.0428,0.393,3.17e-05,0.0952,0.411,113.927,271640,edm
+'Till I Collapse,Eminem,190,'Till I Collapse Eminem,0.548,0.847,-3.237,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,rap
+1234,Feist,191,1234 Feist,0.71,0.484,-7.415,0.049,0.217,3.93e-06,0.0879,0.576,109.951,183667,art pop
+1901,Phoenix,192,1901 Phoenix,0.591,0.831,-5.647,0.0415,0.0605,4.67e-05,0.19,0.705,144.084,193107,alternative dance
+1979,The Smashing Pumpkins,193,1979 The Smashing Pumpkins,0.767,0.787,-9.897,0.0331,0.0163,0.583,0.0513,0.964,126.879,266200,alternative metal
+21 Guns,Green Day,194,21 Guns Green Day,0.268,0.742,-4.939,0.0355,0.0518,0.0,0.626,0.416,159.779,321093,permanent wave
+212,Azealia Banks,195,212 Azealia Banks,0.846,0.772,-5.735,0.259,0.0123,0.000106,0.0769,0.622,125.998,204957,dance pop
+A Little Party Never Killed Nobody (All We Got),Fergie,196,A Little Party Never Killed Nobody (All We Got) Fergie,0.763,0.653,-5.05,0.149,0.00876,5.46e-06,0.0854,0.477,130.025,240907,dance pop
+A Real Hero,College & Electric Youth,197,A Real Hero College & Electric Youth,0.719,0.431,-9.226,0.0357,0.834,0.739,0.145,0.378,112.004,267860,
+About A Girl,Nirvana,198,About A Girl Nirvana,0.409,0.932,-4.538,0.0339,1.87e-05,1.6e-06,0.31,0.591,131.761,166640,alternative rock
+Africa,Toto,199,Africa Toto,0.671,0.373,-18.064,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,295893,album rock
+Ain't No Sunshine,Bill Withers,200,Ain't No Sunshine Bill Withers,0.527,0.415,-11.451,0.122,0.457,1.72e-05,0.117,0.515,78.169,125093,funk
+Alive,Empire Of The Sun,201,Alive Empire Of The Sun,0.524,0.885,-3.079,0.037,0.0997,0.0,0.0708,0.395,119.954,204591,alternative dance
+All Apologies,Nirvana,202,All Apologies Nirvana,0.446,0.632,-12.197,0.034,0.0793,0.000266,0.0881,0.359,113.176,233173,alternative rock
+All My Life,Foo Fighters,203,All My Life Foo Fighters,0.577,0.604,-5.703,0.0495,0.000218,0.000579,0.477,0.637,167.719,263440,alternative metal
+All Night,Icona Pop,204,All Night Icona Pop,0.6,0.905,-3.41,0.0357,0.00274,0.0,0.831,0.636,124.032,187027,candy pop
+All Of The Lights,Kanye West,205,All Of The Lights Kanye West,0.531,0.803,-3.284,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,299613,chicago rap
+All Star,Smash Mouth,206,All Star Smash Mouth,0.731,0.867,-5.881,0.032,0.0395,0.0,0.0861,0.776,104.019,200373,alternative rock
+All These Things That I've Done,The Killers,207,All These Things That I've Done The Killers,0.557,0.728,-6.181,0.0405,0.00156,5.13e-06,0.118,0.216,118.241,301573,alternative rock
+Alright,Supergrass,208,Alright Supergrass,0.467,0.958,-4.808,0.0775,0.000479,0.199,0.299,0.701,145.92,180880,alternative rock
+Am I Wrong,Nico & Vinz,209,Am I Wrong Nico & Vinz,0.729,0.675,-6.003,0.0312,0.175,1.58e-06,0.55,0.779,119.968,245867,pop rap
+American Pie,Don McLean,210,American Pie Don McLean,0.531,0.481,-11.709,0.06,0.699,0.0,0.0842,0.491,138.45,516893,adult standards
+Anna Sun,Walk the Moon,211,Anna Sun Walk the Moon,0.472,0.844,-6.578,0.054,0.00173,0.0,0.24,0.34,140.034,321280,dance pop
+Arabella,Arctic Monkeys,212,Arabella Arctic Monkeys,0.579,0.558,-6.986,0.0895,0.0202,1.26e-06,0.212,0.506,179.949,207357,garage rock
+Back To Black,Amy Winehouse,213,Back To Black Amy Winehouse,0.403,0.422,-13.964,0.0373,0.134,2.05e-05,0.0861,0.378,122.728,241293,british soul
+Bad Girls,M.I.A.,214,Bad Girls M.I.A.,0.639,0.912,-2.621,0.0615,0.00107,0.0,0.097,0.343,143.448,227520,dance pop
+Bad Moon Rising,Creedence Clearwater Revival,215,Bad Moon Rising Creedence Clearwater Revival,0.508,0.774,-5.973,0.0321,0.0586,4.87e-06,0.063,0.942,178.946,141600,album rock
+Basket Case,Green Day,216,Basket Case Green Day,0.442,0.943,-3.205,0.0602,0.00293,8.71e-06,0.091,0.781,85.064,181533,permanent wave
+"Bitch, Don’t Kill My Vibe",Kendrick Lamar,217,"Bitch, Don’t Kill My Vibe Kendrick Lamar",0.587,0.698,-8.948,0.0943,0.0152,0.0,0.442,0.0985,133.954,310720,conscious hip hop
+Black Betty,Ram Jam,218,Black Betty Ram Jam,0.465,0.907,-6.404,0.113,0.0241,0.00118,0.13,0.681,117.293,238973,album rock
+Black Hole Sun,Soundgarden,219,Black Hole Sun Soundgarden,0.35,0.828,-5.373,0.041,0.000217,0.000161,0.0774,0.147,105.435,318587,alternative metal
+Blister In The Sun,Violent Femmes,220,Blister In The Sun Violent Femmes,0.726,0.537,-8.896,0.114,0.316,0.0,0.0707,0.882,96.889,145707,acoustic punk
+Bohemian Like You,The Dandy Warhols,221,Bohemian Like You The Dandy Warhols,0.584,0.931,-6.158,0.0344,0.00315,0.772,0.133,0.694,131.275,211707,alternative dance
+Born To Die,Lana Del Rey,222,Born To Die Lana Del Rey,0.428,0.626,-6.639,0.0339,0.222,8.22e-05,0.277,0.379,86.02,285400,art pop
+Breathe Me,Sia,223,Breathe Me Sia,0.553,0.621,-7.356,0.0333,0.0428,0.596,0.115,0.19,120.051,272067,australian dance
+Breezeblocks,alt-J,224,Breezeblocks alt-J,0.616,0.656,-7.298,0.0344,0.096,0.000879,0.205,0.286,150.071,227080,indie rock
+Brianstorm,Arctic Monkeys,225,Brianstorm Arctic Monkeys,0.421,0.98,-4.229,0.212,8.39e-05,0.00125,0.237,0.435,165.193,170253,garage rock
+Brown Eyed Girl,Van Morrison,226,Brown Eyed Girl Van Morrison,0.491,0.583,-10.964,0.0376,0.185,0.0,0.406,0.908,150.566,183307,classic rock
+Buddy Holly,Weezer,227,Buddy Holly Weezer,0.556,0.92,-4.606,0.0367,0.00271,0.00021,0.117,0.771,121.138,159227,alternative rock
+Bullet With Butterfly Wings,The Smashing Pumpkins,228,Bullet With Butterfly Wings The Smashing Pumpkins,0.404,0.72,-9.18,0.0623,5.59e-05,0.836,0.0466,0.475,121.864,258467,alternative metal
+Bulls on Parade,Rage Against The Machine,229,Bulls on Parade Rage Against The Machine,0.412,0.919,-7.291,0.184,0.0124,0.0601,0.424,0.572,166.367,229467,alternative metal
+Buzzcut Season,Lorde,230,Buzzcut Season Lorde,0.733,0.62,-10.525,0.075,0.606,0.305,0.117,0.247,111.039,246755,art pop
+Calgary,Bon Iver,231,Calgary Bon Iver,0.36,0.467,-11.507,0.0366,0.923,0.178,0.622,0.0754,119.947,250200,eau claire indie
+Californication,Red Hot Chili Peppers,232,Californication Red Hot Chili Peppers,0.592,0.767,-2.788,0.027,0.0021,0.00165,0.127,0.328,96.483,329733,alternative rock
+Call It What You Want,Foster The People,233,Call It What You Want Foster The People,0.641,0.967,-4.289,0.0601,0.0483,0.000276,0.442,0.725,113.017,238787,indietronica
+Call Me,Blondie,234,Call Me Blondie,0.554,0.833,-6.667,0.0347,0.000646,0.0025,0.0737,0.773,142.673,212227,candy pop
+Can I Kick It?,A Tribe Called Quest,235,Can I Kick It? A Tribe Called Quest,0.848,0.666,-6.547,0.274,0.173,0.000699,0.129,0.744,96.662,251573,alternative hip hop
+Champagne Supernova,Oasis,236,Champagne Supernova Oasis,0.293,0.817,-3.786,0.039,0.458,0.0509,0.355,0.138,150.249,451320,beatlesque
+Chandelier,Sia,237,Chandelier Sia,0.399,0.787,-2.88,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,216120,australian dance
+Charlie Brown,Coldplay,238,Charlie Brown Coldplay,0.43,0.74,-7.072,0.0375,0.0212,0.00165,0.33,0.0948,137.978,285160,permanent wave
+Chasing Cars,Snow Patrol,239,Chasing Cars Snow Patrol,0.563,0.592,-4.571,0.0276,0.209,5.08e-05,0.132,0.136,104.016,267933,irish rock
+Chicago,Sufjan Stevens,240,Chicago Sufjan Stevens,0.582,0.464,-9.657,0.0304,0.585,0.0,0.0892,0.446,124.97,364613,baroque pop
+Clocks,Coldplay,241,Clocks Coldplay,0.577,0.749,-7.215,0.0279,0.599,0.0115,0.183,0.255,130.97,307880,permanent wave
+Closing Time,Semisonic,242,Closing Time Semisonic,0.478,0.854,-5.454,0.0289,0.0204,1.21e-06,0.115,0.274,91.854,274160,pop rock
+Come On Eileen,Dexys Midnight Runners,243,Come On Eileen Dexys Midnight Runners,0.45,0.656,-7.049,0.0472,0.664,3.02e-06,0.259,0.782,106.61,287307,new romantic
+Common People - Full Length Version; Album Version,Pulp,244,Common People - Full Length Version; Album Version Pulp,0.314,0.797,-9.026,0.038,0.0057,5.59e-05,0.0718,0.569,145.393,351627,alternative rock
+"Comptine d'un autre été, l'après-midi",Yann Tiersen,245,"Comptine d'un autre été, l'après-midi Yann Tiersen",0.483,0.192,-15.378,0.0469,0.991,0.908,0.106,0.0542,100.848,140733,bow pop
+Cosmic Love,Florence + The Machine,246,Cosmic Love Florence + The Machine,0.524,0.803,-5.56,0.0366,0.145,0.000191,0.115,0.0827,140.003,255133,baroque pop
+Cough Syrup,Young the Giant,247,Cough Syrup Young the Giant,0.534,0.721,-7.307,0.0417,0.0343,6.24e-06,0.115,0.225,128.978,249520,modern alternative rock
+Crystalised,The xx,248,Crystalised The xx,0.762,0.484,-12.368,0.0311,0.812,0.389,0.0841,0.415,122.916,201947,downtempo
+Dance Yrself Clean,LCD Soundsystem,249,Dance Yrself Clean LCD Soundsystem,0.739,0.611,-9.829,0.0622,0.00557,0.725,0.04,0.794,98.004,536471,alternative dance
+Dancing Queen,ABBA,250,Dancing Queen ABBA,0.543,0.87,-6.514,0.0428,0.358,0.000939,0.792,0.754,100.804,230400,europop
+Dani California,Red Hot Chili Peppers,251,Dani California Red Hot Chili Peppers,0.556,0.913,-2.36,0.0437,0.0193,8.59e-06,0.346,0.73,96.184,282160,alternative rock
+Default,Django Django,252,Default Django Django,0.747,0.875,-5.635,0.0282,0.00733,1.1e-06,0.184,0.913,115.967,185640,alternative dance
+Diane Young,Vampire Weekend,253,Diane Young Vampire Weekend,0.422,0.809,-5.607,0.246,0.0333,3.64e-05,0.203,0.735,87.076,160067,baroque pop
+Dirty Paws,Of Monsters and Men,254,Dirty Paws Of Monsters and Men,0.359,0.649,-7.06,0.0349,0.107,0.0124,0.0555,0.133,111.709,278373,folk-pop
+Disarm,The Smashing Pumpkins,255,Disarm The Smashing Pumpkins,0.527,0.418,-10.205,0.0277,0.142,0.775,0.139,0.218,129.516,196905,alternative metal
+Disparate Youth,Santigold,256,Disparate Youth Santigold,0.642,0.931,-4.142,0.0417,0.0131,0.825,0.215,0.548,152.005,284400,alternative dance
+Dissolve Me,alt-J,257,Dissolve Me alt-J,0.575,0.603,-8.2,0.0376,0.101,0.0381,0.0858,0.12,107.947,239013,indie rock
+Do I Wanna Know?,Arctic Monkeys,258,Do I Wanna Know? Arctic Monkeys,0.548,0.532,-7.596,0.0323,0.186,0.000263,0.217,0.405,85.03,272394,garage rock
+Dog Days Are Over,Florence + The Machine,259,Dog Days Are Over Florence + The Machine,0.492,0.81,-5.315,0.0847,0.0416,0.00379,0.117,0.245,149.954,251840,baroque pop
+Don't Panic,Coldplay,260,Don't Panic Coldplay,0.602,0.612,-8.409,0.0335,0.206,0.00607,0.107,0.453,122.062,136867,permanent wave
+Don't Save Me,Haim,261,Don't Save Me Haim,0.676,0.889,-4.277,0.0441,0.0284,1.2e-06,0.0978,0.649,139.963,230293,art pop
+Don't Stop (Color on the Walls),Foster The People,262,Don't Stop (Color on the Walls) Foster The People,0.611,0.948,-3.751,0.0753,0.00183,0.0995,0.0969,0.79,133.004,174920,indietronica
+Don't You (Forget About Me),Simple Minds,263,Don't You (Forget About Me) Simple Minds,0.66,0.816,-6.61,0.0299,0.168,0.0181,0.0608,0.678,111.346,263040,art rock
+Drop It Like It's Hot,Snoop Dogg,264,Drop It Like It's Hot Snoop Dogg,0.888,0.632,-3.872,0.219,0.19,0.0,0.101,0.662,91.979,266067,pop rap
+Drops of Jupiter,Train,265,Drops of Jupiter Train,0.481,0.638,-5.862,0.0276,0.153,0.0,0.154,0.497,79.064,259933,dance pop
+"Earned It (Fifty Shades Of Grey) - From The Fifty Shades Of Grey"" Soundtrack""",The Weeknd,266,"Earned It (Fifty Shades Of Grey) - From The Fifty Shades Of Grey"" Soundtrack"" The Weeknd",0.659,0.381,-5.922,0.0304,0.385,0.0,0.0972,0.426,119.844,252227,canadian contemporary r&b
+Elephant,Tame Impala,267,Elephant Tame Impala,0.598,0.553,-6.742,0.0397,0.562,0.157,0.257,0.533,123.075,211227,australian psych
+Enter Sandman,Metallica,268,Enter Sandman Metallica,0.566,0.834,-8.412,0.0298,0.00277,0.008,0.0625,0.621,123.296,331560,hard rock
+Entertainment,Phoenix,269,Entertainment Phoenix,0.402,0.72,-4.698,0.0473,0.00133,0.0396,0.325,0.503,75.38,219973,alternative dance
+Euphoria - Single Version,Loreen,270,Euphoria - Single Version Loreen,0.562,0.783,-4.727,0.0428,0.135,1.44e-05,0.282,0.391,132.06,181787,electropop
+Everlasting Light,The Black Keys,271,Everlasting Light The Black Keys,0.641,0.582,-6.554,0.0483,0.127,0.00632,0.354,0.725,181.039,203773,alternative rock
+Every Other Freckle,alt-J,272,Every Other Freckle alt-J,0.543,0.707,-7.636,0.07,0.614,0.0414,0.118,0.515,143.915,216004,indie rock
+Everybody Talks,Neon Trees,273,Everybody Talks Neon Trees,0.471,0.924,-3.906,0.0586,0.00301,0.0,0.313,0.725,154.961,177280,modern alternative rock
+Everybody Wants To Rule The World,Tears For Fears,274,Everybody Wants To Rule The World Tears For Fears,0.645,0.795,-12.095,0.0527,0.347,0.00389,0.104,0.535,112.067,251489,new romantic
+Everybody's Changing,Keane,275,Everybody's Changing Keane,0.515,0.835,-3.564,0.0293,0.00146,0.000235,0.101,0.457,94.015,215160,neo mellow
+Everything In Its Right Place,Radiohead,276,Everything In Its Right Place Radiohead,0.296,0.463,-11.412,0.0449,0.705,0.0482,0.0954,0.0629,123.943,251427,alternative rock
+Evil,Interpol,277,Evil Interpol,0.489,0.769,-3.524,0.038,0.00135,0.56,0.0727,0.637,128.985,215827,alternative dance
+F For You,Disclosure,278,F For You Disclosure,0.751,0.812,-7.4,0.0707,0.00731,0.0298,0.11,0.224,123.998,269947,house
+F**kin' Problems,A$AP Rocky,279,F**kin' Problems A$AP Rocky,0.853,0.693,-6.87,0.275,0.0239,0.0,0.11,0.662,95.967,233787,rap
+Fade Into You,Mazzy Star,280,Fade Into You Mazzy Star,0.42,0.33,-13.925,0.0275,0.245,0.000679,0.0677,0.175,157.143,295600,alternative rock
+Fake Plastic Trees,Radiohead,281,Fake Plastic Trees Radiohead,0.463,0.229,-12.592,0.0297,0.167,0.0997,0.202,0.135,73.543,290707,alternative rock
+Fancy,Iggy Azalea,282,Fancy Iggy Azalea,0.912,0.716,-4.141,0.0697,0.0904,0.0,0.0491,0.377,94.981,199938,post-teen pop
+Feel The Love - feat. John Newman,Rudimental,283,Feel The Love - feat. John Newman Rudimental,0.389,0.706,-6.849,0.0593,0.0026,0.000182,0.686,0.238,179.911,245187,dance pop
+Feels Like We Only Go Backwards,Tame Impala,284,Feels Like We Only Go Backwards Tame Impala,0.303,0.9,-2.352,0.0574,0.0277,0.635,0.11,0.491,149.508,192960,australian psych
+Fell In Love With A Girl,The White Stripes,285,Fell In Love With A Girl The White Stripes,0.356,0.982,-1.574,0.112,0.713,0.00145,0.941,0.299,95.754,110093,alternative rock
+Fever,The Black Keys,286,Fever The Black Keys,0.609,0.674,-6.506,0.0355,0.00378,0.000302,0.129,0.743,127.541,246307,alternative rock
+Fineshrine,Purity Ring,287,Fineshrine Purity Ring,0.609,0.797,-4.45,0.0404,0.0182,8.68e-06,0.434,0.4,130.053,209760,art pop
+Fitzpleasure,alt-J,288,Fitzpleasure alt-J,0.582,0.604,-6.962,0.0493,0.134,0.000957,0.102,0.341,143.952,219400,indie rock
+Float On,Modest Mouse,289,Float On Modest Mouse,0.649,0.888,-4.807,0.0293,0.013,2.23e-06,0.0888,0.553,100.975,208467,alternative rock
+Flume,Bon Iver,290,Flume Bon Iver,0.448,0.143,-17.012,0.0328,0.929,0.0356,0.109,0.0873,132.829,219000,eau claire indie
+Fly Away,Lenny Kravitz,291,Fly Away Lenny Kravitz,0.587,0.872,-5.066,0.0484,0.018,0.0,0.622,0.735,159.925,221333,permanent wave
+Forever,Haim,292,Forever Haim,0.773,0.867,-4.595,0.0603,0.145,0.000333,0.105,0.592,117.984,245307,art pop
+Free Bird,Lynyrd Skynyrd,293,Free Bird Lynyrd Skynyrd,0.249,0.834,-8.21,0.0577,0.0738,9.48e-05,0.0924,0.338,118.223,547107,album rock
+Free Fallin' - Live at the Nokia Theatre,John Mayer,294,Free Fallin' - Live at the Nokia Theatre John Mayer,0.315,0.296,-13.262,0.0315,0.771,0.0,0.702,0.435,173.509,263573,neo mellow
+Friday I'm In Love,The Cure,295,Friday I'm In Love The Cure,0.526,0.762,-12.437,0.0342,0.000972,0.000116,0.338,0.505,136.203,214400,new wave
+Genesis,Grimes,296,Genesis Grimes,0.611,0.677,-6.745,0.034,0.0764,0.0698,0.241,0.233,166.04,255320,art pop
+Girls And Boys,Blur,297,Girls And Boys Blur,0.693,0.875,-8.354,0.0315,0.00986,0.0,0.0601,0.899,120.048,259387,alternative rock
+Girls Just Want to Have Fun,Cyndi Lauper,298,Girls Just Want to Have Fun Cyndi Lauper,0.71,0.799,-4.897,0.0328,0.22,0.000602,0.349,0.725,120.372,238267,mellow gold
+Give Me Love,Ed Sheeran,299,Give Me Love Ed Sheeran,0.526,0.328,-9.864,0.0461,0.694,0.0,0.112,0.11,116.068,526387,pop
+Glad You Came,The Wanted,300,Glad You Came The Wanted,0.722,0.851,-3.873,0.0639,0.0319,0.0,0.108,0.452,126.885,197936,boy band
+Glory And Gore,Lorde,301,Glory And Gore Lorde,0.689,0.377,-8.761,0.0397,0.285,0.0,0.268,0.294,143.946,210738,art pop
+Go Outside,Cults,302,Go Outside Cults,0.366,0.704,-6.758,0.0326,0.122,0.939,0.345,0.495,77.473,203067,experimental pop
+Go Your Own Way,Fleetwood Mac,303,Go Your Own Way Fleetwood Mac,0.586,0.941,-5.139,0.0375,0.0167,0.000776,0.068,0.831,135.448,223613,album rock
+Gold Digger,Kanye West,304,Gold Digger Kanye West,0.629,0.696,-5.572,0.348,0.0195,0.0,0.0554,0.623,93.034,207627,chicago rap
+Gold On The Ceiling,The Black Keys,305,Gold On The Ceiling The Black Keys,0.505,0.833,-4.632,0.0475,0.00772,7.9e-05,0.069,0.565,130.121,224333,alternative rock
+Good Riddance [Time Of Your Life],Green Day,306,Good Riddance [Time Of Your Life] Green Day,0.475,0.432,-7.844,0.0302,0.183,0.0,0.161,0.648,94.605,153467,permanent wave
+Good Vibrations - 2001 - Remaster,The Beach Boys,307,Good Vibrations - 2001 - Remaster The Beach Boys,0.396,0.473,-7.67,0.0345,0.326,0.000124,0.109,0.385,133.449,219027,baroque pop
+Hallelujah,Jeff Buckley,308,Hallelujah Jeff Buckley,0.324,0.136,-10.33,0.0318,0.931,0.00117,0.176,0.0831,97.256,413827,melancholia
+Have You Ever Seen The Rain,Creedence Clearwater Revival,309,Have You Ever Seen The Rain Creedence Clearwater Revival,0.743,0.47,-13.154,0.029,0.0936,3.15e-05,0.186,0.89,116.122,160333,album rock
+Heads Will Roll,Yeah Yeah Yeahs,310,Heads Will Roll Yeah Yeah Yeahs,0.744,0.614,-3.908,0.0838,0.00685,0.334,0.0708,0.774,131.994,383547,alternative dance
+Heart Of Glass,Blondie,311,Heart Of Glass Blondie,0.77,0.654,-6.108,0.0361,0.0539,0.00047,0.0819,0.685,114.82,229423,candy pop
+Heart Skipped A Beat,The xx,312,Heart Skipped A Beat The xx,0.825,0.347,-13.148,0.0504,0.554,0.813,0.0893,0.511,122.742,242267,downtempo
+Helena Beat,Foster The People,313,Helena Beat Foster The People,0.67,0.876,-4.905,0.0536,0.0127,0.00302,0.109,0.736,126.968,276173,indietronica
+Help I'm Alive,Metric,314,Help I'm Alive Metric,0.565,0.877,-4.561,0.0614,0.00813,0.00251,0.26,0.389,118.484,285920,alternative dance
+Help Me Lose My Mind,Disclosure,315,Help Me Lose My Mind Disclosure,0.776,0.713,-5.676,0.0554,0.0379,0.107,0.0564,0.328,109.033,244174,house
+Helplessness Blues,Fleet Foxes,316,Helplessness Blues Fleet Foxes,0.329,0.452,-7.737,0.0334,0.0908,5.43e-06,0.118,0.193,125.217,303387,chamber pop
+Hero,Family of the Year,317,Hero Family of the Year,0.341,0.539,-5.76,0.0265,0.213,6.44e-05,0.109,0.267,174.564,190280,stomp and holler
+Hey Ya!,OutKast,318,Hey Ya! OutKast,0.727,0.974,-2.261,0.0664,0.103,0.000532,0.174,0.965,79.526,235213,atl hip hop
+Hide And Seek,Imogen Heap,319,Hide And Seek Imogen Heap,0.451,0.166,-11.125,0.0696,0.909,0.0,0.19,0.0901,121.123,268980,etherpop
+High And Dry,Radiohead,320,High And Dry Radiohead,0.419,0.383,-11.782,0.0256,0.0724,0.0176,0.0896,0.35,87.568,257480,alternative rock
+Ho Hey,The Lumineers,321,Ho Hey The Lumineers,0.685,0.466,-9.074,0.0304,0.794,2.06e-06,0.0915,0.353,79.936,163133,folk-pop
+"Hold On, We're Going Home",Drake,322,"Hold On, We're Going Home Drake",0.777,0.414,-7.44,0.0946,0.00421,2.73e-05,0.0724,0.287,100.002,227880,canadian hip hop
+Hold the Line,Toto,323,Hold the Line Toto,0.473,0.898,-4.797,0.0561,0.00783,0.0618,0.173,0.808,96.556,235547,album rock
+Holocene,Bon Iver,324,Holocene Bon Iver,0.374,0.304,-14.52,0.0302,0.943,0.298,0.126,0.147,147.969,336613,eau claire indie
+Holy Grail,JAY Z,325,Holy Grail JAY Z,0.676,0.534,-6.901,0.0831,0.0594,8.59e-06,0.256,0.156,145.082,338413,east coast hip hop
+Home,Edward Sharpe & The Magnetic Zeros,326,Home Edward Sharpe & The Magnetic Zeros,0.542,0.589,-6.623,0.0318,0.292,0.000522,0.177,0.137,111.665,303200,double drumming
+Hotel California,Eagles,327,Hotel California Eagles,0.579,0.508,-9.484,0.027,0.00574,0.000494,0.0575,0.609,147.125,391376,album rock
+Houdini,Foster The People,328,Houdini Foster The People,0.632,0.908,-3.511,0.0458,0.00762,0.000172,0.167,0.764,110.024,202467,indietronica
+How Soon Is Now?,The Smiths,329,How Soon Is Now? The Smiths,0.398,0.93,-6.76,0.0615,0.000854,0.121,0.0874,0.725,190.818,408173,madchester
+Howlin’ For You,The Black Keys,330,Howlin’ For You The Black Keys,0.705,0.735,-6.646,0.0931,0.028,0.0783,0.112,0.448,132.627,191800,alternative rock
+Hurricane,MS MR,331,Hurricane MS MR,0.564,0.68,-6.487,0.0357,0.231,0.000179,0.247,0.262,89.938,226373,indietronica
+I Bet You Look Good On The Dancefloor,Arctic Monkeys,332,I Bet You Look Good On The Dancefloor Arctic Monkeys,0.535,0.948,-4.19,0.0356,0.00225,0.0,0.376,0.778,103.183,173680,garage rock
+I Don't Want to Miss a Thing,Aerosmith,333,I Don't Want to Miss a Thing Aerosmith,0.39,0.649,-5.163,0.0345,0.172,0.0,0.216,0.144,121.16,299760,album rock
+I Follow Rivers,Lykke Li,334,I Follow Rivers Lykke Li,0.786,0.696,-5.796,0.0428,0.0234,0.0019,0.0839,0.306,121.974,280070,art pop
+I Follow Rivers - The Magician Remix,Lykke Li,335,I Follow Rivers - The Magician Remix Lykke Li,0.786,0.696,-5.796,0.0428,0.0234,0.0019,0.0839,0.306,121.974,280070,art pop
+I Need A Dollar,Aloe Blacc,336,I Need A Dollar Aloe Blacc,0.84,0.481,-7.123,0.0336,0.199,0.0,0.0873,0.955,95.497,243053,pop soul
+I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,337,I Wanna Dance with Somebody (Who Loves Me) Whitney Houston,0.709,0.824,-8.824,0.0453,0.207,0.000307,0.0888,0.867,118.818,291293,dance pop
+I'm Gonna Be (500 Miles),The Proclaimers,338,I'm Gonna Be (500 Miles) The Proclaimers,0.851,0.551,-5.177,0.0396,0.151,0.0,0.0827,0.807,131.922,219467,celtic rock
+If I ever feel better,Phoenix,339,If I ever feel better Phoenix,0.755,0.553,-9.449,0.107,0.0492,0.00607,0.0646,0.836,119.7,266600,alternative dance
+In Bloom,Nirvana,340,In Bloom Nirvana,0.436,0.876,-4.902,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,255080,alternative rock
+In For The Kill,La Roux,341,In For The Kill La Roux,0.629,0.969,-0.276,0.0455,0.00184,0.0,0.122,0.905,150.01,248627,alternative dance
+In The Air Tonight,Phil Collins,342,In The Air Tonight Phil Collins,0.446,0.239,-13.945,0.0316,0.551,4.1e-06,0.0697,0.298,189.507,336453,mellow gold
+Intergalactic,Beastie Boys,343,Intergalactic Beastie Boys,0.734,0.864,-6.119,0.303,0.022,9.85e-06,0.246,0.47,105.932,231493,alternative rock
+Islands,The xx,344,Islands The xx,0.871,0.472,-11.077,0.0756,0.74,0.269,0.145,0.707,124.04,160720,downtempo
+It's Time,Imagine Dragons,345,It's Time Imagine Dragons,0.656,0.884,-4.748,0.0372,0.0162,0.0,0.145,0.86,105.009,237987,modern rock
+It's the End of the World As We Know It (And I Feel Fine),R.E.M.,346,It's the End of the World As We Know It (And I Feel Fine) R.E.M.,0.381,0.894,-8.638,0.037,0.0258,0.0,0.0251,0.797,205.528,246933,alternative rock
+Juicy,The Notorious B.I.G.,347,Juicy The Notorious B.I.G.,0.889,0.818,-4.639,0.253,0.47,0.0,0.179,0.782,96.063,302760,east coast hip hop
+Jump Around,House Of Pain,348,Jump Around House Of Pain,0.854,0.71,-6.32,0.0795,0.0113,9.06e-05,0.166,0.818,106.893,214947,gangster rap
+Just A Girl,No Doubt,349,Just A Girl No Doubt,0.638,0.906,-4.824,0.0504,0.0662,6.88e-05,0.142,0.767,107.991,209200,alternative rock
+Just Like Heaven,The Cure,350,Just Like Heaven The Cure,0.43,0.971,-3.845,0.0524,0.0271,2.16e-05,0.185,0.764,151.219,212000,new wave
+Keep Your Head Up,Ben Howard,351,Keep Your Head Up Ben Howard,0.508,0.596,-9.034,0.0334,0.439,9.84e-06,0.111,0.4,79.359,264547,british singer-songwriter
+Killing Me Softly with His Song,Fugees,352,Killing Me Softly with His Song Fugees,0.765,0.29,-17.117,0.139,0.0279,0.0,0.571,0.506,92.409,298773,new jersey rap
+King And Lionheart,Of Monsters and Men,353,King And Lionheart Of Monsters and Men,0.52,0.655,-6.516,0.0393,0.104,0.00347,0.124,0.289,126.593,273853,folk-pop
+Kiss Me,Sixpence None The Richer,354,Kiss Me Sixpence None The Richer,0.526,0.749,-6.964,0.0283,0.023,1.76e-06,0.0692,0.421,99.982,208680,neo mellow
+Knights Of Cydonia,Muse,355,Knights Of Cydonia Muse,0.366,0.963,-5.301,0.142,0.000273,0.0122,0.115,0.211,137.114,366213,alternative rock
+Last Nite,The Strokes,356,Last Nite The Strokes,0.624,0.899,-5.709,0.0296,0.0221,0.000137,0.0975,0.79,104.061,193373,alternative rock
+Latch,Disclosure,357,Latch Disclosure,0.729,0.735,-5.455,0.0919,0.0178,0.000193,0.089,0.544,121.986,255867,pop
+Lean On (feat. MØ & DJ Snake),Major Lazer,358,Lean On (feat. MØ & DJ Snake) Major Lazer,0.463,0.889,-3.189,0.126,0.0354,0.382,0.186,0.21,127.973,296350,dance pop
+Lego House,Ed Sheeran,359,Lego House Ed Sheeran,0.592,0.637,-8.48,0.0992,0.562,0.0,0.13,0.565,159.701,185093,pop
+Let's Get It On,Marvin Gaye,360,Let's Get It On Marvin Gaye,0.539,0.599,-10.638,0.0483,0.0375,0.0,0.0754,0.636,167.7,290933,classic soul
+Like A Prayer,Madonna,361,Like A Prayer Madonna,0.624,0.842,-5.285,0.0376,0.264,2.11e-05,0.181,0.257,111.037,342680,dance pop
+Like a Rolling Stone,Bob Dylan,362,Like a Rolling Stone Bob Dylan,0.482,0.721,-6.839,0.0321,0.731,0.0,0.189,0.557,95.263,369600,album rock
+Linger,The Cranberries,363,Linger The Cranberries,0.439,0.434,-14.918,0.0265,0.0783,4.87e-05,0.14,0.204,94.845,274707,irish rock
+Lisztomania,Phoenix,364,Lisztomania Phoenix,0.486,0.784,-6.68,0.0852,0.0339,0.00452,0.53,0.315,195.154,241640,alternative dance
+Lithium,Nirvana,365,Lithium Nirvana,0.678,0.656,-6.41,0.0381,0.00174,0.0,0.0631,0.485,123.207,257053,alternative rock
+Little Secrets,Passion Pit,366,Little Secrets Passion Pit,0.597,0.786,-4.248,0.0419,0.00345,0.0,0.0909,0.666,99.888,238973,alternative dance
+Little Talks,Of Monsters and Men,367,Little Talks Of Monsters and Men,0.457,0.757,-5.177,0.032,0.0206,0.0,0.146,0.417,102.961,266600,folk-pop
+London Calling,The Clash,368,London Calling The Clash,0.651,0.801,-7.34,0.0514,0.123,0.0,0.0825,0.776,133.769,200480,classic rock
+Lonely Boy,The Black Keys,369,Lonely Boy The Black Keys,0.356,0.872,-7.837,0.068,0.00417,0.00975,0.0997,0.607,166.3,193653,alternative rock
+Lose Yourself - Soundtrack Version,Eminem,370,Lose Yourself - Soundtrack Version Eminem,0.703,0.746,-4.718,0.257,0.00535,1.8e-05,0.357,0.0655,171.387,321213,detroit hip hop
+Losing My Religion,R.E.M.,371,Losing My Religion R.E.M.,0.666,0.855,-5.051,0.0295,0.179,1.2e-06,0.0987,0.803,125.639,268427,alternative rock
+Love Me Again,John Newman,372,Love Me Again John Newman,0.495,0.894,-4.814,0.0441,0.00453,0.000596,0.103,0.213,126.03,239894,
+Love Will Tear Us Apart,Joy Division,373,Love Will Tear Us Apart Joy Division,0.527,0.923,-7.458,0.0379,0.000541,0.765,0.127,0.899,146.924,208453,alternative rock
+Madness,Muse,374,Madness Muse,0.502,0.417,-7.665,0.0718,0.127,0.00419,0.106,0.218,180.301,281040,alternative rock
+Magic,Coldplay,375,Magic Coldplay,0.738,0.482,-8.917,0.0402,0.0266,0.621,0.106,0.352,93.457,285014,permanent wave
+Man On The Moon,R.E.M.,376,Man On The Moon R.E.M.,0.667,0.699,-7.574,0.026,0.42,0.000442,0.201,0.655,118.567,314173,alternative rock
+Matilda,alt-J,377,Matilda alt-J,0.576,0.653,-9.132,0.03,0.779,0.361,0.113,0.209,147.867,227920,indie rock
+Misery Business,Paramore,378,Misery Business Paramore,0.517,0.906,-3.677,0.0735,0.00272,9.26e-06,0.113,0.731,172.977,211520,candy pop
+Money For Nothing,Dire Straits,379,Money For Nothing Dire Straits,0.667,0.655,-9.339,0.0367,0.0491,0.000894,0.0641,0.657,134.212,506400,album rock
+Money Trees,Kendrick Lamar,380,Money Trees Kendrick Lamar,0.716,0.531,-7.355,0.122,0.0703,0.0,0.224,0.344,71.994,386907,rap
+Monkey Wrench,Foo Fighters,381,Monkey Wrench Foo Fighters,0.401,0.953,-4.276,0.0752,1.83e-05,2.56e-05,0.149,0.555,174.217,231480,alternative metal
+Monster,Kanye West,382,Monster Kanye West,0.628,0.692,-5.64,0.202,0.00244,0.0129,0.668,0.0963,124.887,378893,rap
+Mountain Sound,Of Monsters and Men,383,Mountain Sound Of Monsters and Men,0.379,0.879,-4.336,0.0362,0.0421,0.00449,0.146,0.37,102.021,211453,folk-pop
+Mr. Jones,Counting Crows,384,Mr. Jones Counting Crows,0.578,0.817,-6.542,0.0363,0.183,3.06e-06,0.285,0.726,141.621,272293,alternative rock
+Ms. Jackson,OutKast,385,Ms. Jackson OutKast,0.843,0.806,-5.946,0.269,0.143,0.0,0.0771,0.613,94.948,270507,atl hip hop
+My Body,Young the Giant,386,My Body Young the Giant,0.488,0.909,-6.591,0.0929,0.0011,1.02e-05,0.456,0.643,129.774,244400,modern alternative rock
+My Number,Foals,387,My Number Foals,0.639,0.715,-8.954,0.0392,0.0243,0.000552,0.619,0.813,128.072,238853,indie rock
+My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,388,My Songs Know What You Did In The Dark (Light Em Up) Fall Out Boy,0.558,0.924,-4.341,0.064,0.0271,3.32e-06,0.537,0.567,151.99,186827,emo
+Myth,Beach House,389,Myth Beach House,0.445,0.708,-6.268,0.0293,0.032,0.0908,0.171,0.414,141.965,258653,baltimore indie
+National Anthem,Lana Del Rey,390,National Anthem Lana Del Rey,0.532,0.899,-5.935,0.244,0.531,0.000146,0.0957,0.436,85.0,230520,art pop
+Never Gonna Give You Up,Rick Astley,391,Never Gonna Give You Up Rick Astley,0.721,0.939,-11.823,0.0376,0.115,3.79e-05,0.108,0.914,113.309,213573,new romantic
+Next Girl,The Black Keys,392,Next Girl The Black Keys,0.383,0.748,-6.343,0.0343,0.022,0.00014,0.114,0.255,171.568,198213,alternative rock
+Next to Me,Emeli Sandé,393,Next to Me Emeli Sandé,0.674,0.81,-5.117,0.0378,0.0923,4.74e-05,0.11,0.391,94.995,196867,dance pop
+Ni**as In Paris,JAY Z,394,Ni**as In Paris JAY Z,0.789,0.858,-5.542,0.311,0.127,0.0,0.349,0.775,140.022,219333,rap
+No Church In The Wild,JAY Z,395,No Church In The Wild JAY Z,0.654,0.75,-7.509,0.105,0.246,0.0178,0.167,0.557,92.78,272507,hip hop
+No One's Gonna Love You,Band of Horses,396,No One's Gonna Love You Band of Horses,0.313,0.894,-3.579,0.0294,0.122,0.0,0.0925,0.363,149.044,217333,indie folk
+No Scrubs,TLC,397,No Scrubs TLC,0.743,0.675,-4.267,0.0953,0.0251,0.000717,0.0685,0.59,92.909,214400,atl hip hop
+No Surprises,Radiohead,398,No Surprises Radiohead,0.255,0.393,-10.654,0.0278,0.0577,0.00361,0.113,0.118,76.426,229120,alternative rock
+Nothing Else Matters,Metallica,399,Nothing Else Matters Metallica,0.547,0.394,-9.793,0.0262,0.0522,6.4e-06,0.0795,0.17,142.37,388733,hard rock
+Oblivion,Grimes,400,Oblivion Grimes,0.697,0.529,-8.838,0.0338,0.115,0.896,0.0895,0.486,155.974,251267,art pop
+Odessa,Caribou,401,Odessa Caribou,0.681,0.915,-5.974,0.042,0.00334,0.0841,0.354,0.606,118.029,315585,alternative dance
+Off To The Races,Lana Del Rey,402,Off To The Races Lana Del Rey,0.399,0.721,-5.562,0.0523,0.0621,0.00282,0.278,0.113,160.125,299934,art pop
+Old Pine,Ben Howard,403,Old Pine Ben Howard,0.401,0.364,-10.836,0.033,0.45,0.0503,0.162,0.224,129.57,328507,british singer-songwriter
+On Melancholy Hill,Gorillaz,404,On Melancholy Hill Gorillaz,0.689,0.739,-5.81,0.026,1.51e-05,0.509,0.064,0.578,120.423,233867,alternative hip hop
+Open,Rhye,405,Open Rhye,0.551,0.324,-10.962,0.0314,0.896,0.0873,0.277,0.231,90.957,217053,downtempo
+Otherside,Red Hot Chili Peppers,406,Otherside Red Hot Chili Peppers,0.458,0.795,-3.265,0.0574,0.00316,0.000202,0.0756,0.513,123.229,255373,alternative rock
+POWER,Kanye West,407,POWER Kanye West,0.542,0.914,-4.747,0.113,0.0161,0.0,0.744,0.576,153.993,292093,chicago rap
+Paranoid,Black Sabbath,408,Paranoid Black Sabbath,0.412,0.658,-12.051,0.0708,4.52e-05,0.000774,0.176,0.454,163.071,168406,album rock
+Perfect Day,Lou Reed,409,Perfect Day Lou Reed,0.4,0.267,-12.488,0.0323,0.744,0.00734,0.103,0.0872,144.799,225000,art rock
+Piano Man,Billy Joel,410,Piano Man Billy Joel,0.331,0.55,-6.483,0.0272,0.605,3.96e-06,0.192,0.429,177.734,339000,classic rock
+Polish Girl,Neon Indian,411,Polish Girl Neon Indian,0.622,0.873,-4.255,0.0366,0.00603,1.25e-05,0.131,0.434,111.984,264000,alternative dance
+Pompeii,Bastille,412,Pompeii Bastille,0.679,0.715,-6.383,0.0407,0.0755,0.0,0.271,0.571,127.435,214148,metropopolis
+Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,413,Prayer in C - Robin Schulz Radio Edit Lilly Wood and The Prick,0.763,0.875,-5.797,0.0262,0.024,5.41e-06,0.599,0.8,123.013,189413,french indie pop
+Pumpin Blood,NONONO,414,Pumpin Blood NONONO,0.618,0.848,-4.36,0.0279,0.000469,0.522,0.189,0.413,118.998,209485,swedish alternative rock
+Pyramids,Frank Ocean,415,Pyramids Frank Ocean,0.4,0.65,-6.104,0.0466,0.0118,7.62e-05,0.791,0.15,107.989,592920,alternative r&b
+Pyro,Kings Of Leon,416,Pyro Kings Of Leon,0.365,0.606,-7.174,0.0415,0.00757,0.052,0.103,0.191,114.995,250533,modern rock
+Radio,Lana Del Rey,417,Radio Lana Del Rey,0.423,0.857,-5.173,0.0687,0.188,2.63e-05,0.105,0.196,75.024,214574,art pop
+Rather Be (feat. Jess Glynne),Clean Bandit,418,Rather Be (feat. Jess Glynne) Clean Bandit,0.799,0.586,-6.735,0.0377,0.162,2.03e-06,0.193,0.549,120.97,227833,tropical house
+Read My Mind,The Killers,419,Read My Mind The Killers,0.543,0.917,-3.391,0.0444,0.00572,7.76e-05,0.104,0.329,132.246,246840,alternative rock
+Rebellion (Lies),Arcade Fire,420,Rebellion (Lies) Arcade Fire,0.401,0.933,-5.682,0.0344,0.00744,0.627,0.318,0.734,127.193,310893,alternative dance
+Red Eyes,The War On Drugs,421,Red Eyes The War On Drugs,0.464,0.814,-6.371,0.0369,0.00882,0.2,0.162,0.467,161.845,298920,indie rock
+Redemption Song,Bob Marley & The Wailers,422,Redemption Song Bob Marley & The Wailers,0.671,0.256,-10.743,0.0387,0.608,0.0,0.0737,0.694,115.871,233560,reggae
+Rehab,Amy Winehouse,423,Rehab Amy Winehouse,0.407,0.558,-13.609,0.0552,0.0541,1.51e-06,0.34,0.777,71.815,214947,british soul
+Reptilia,The Strokes,424,Reptilia The Strokes,0.489,0.649,-5.11,0.0336,0.000603,0.713,0.101,0.77,158.009,219827,alternative rock
+Resistance,Muse,425,Resistance Muse,0.467,0.774,-6.569,0.0485,0.0616,0.289,0.108,0.0916,135.006,346693,alternative rock
+Respect,Aretha Franklin,426,Respect Aretha Franklin,0.805,0.558,-5.226,0.041,0.164,2.2e-05,0.0546,0.965,114.95,147600,classic soul
+Retrograde,James Blake,427,Retrograde James Blake,0.533,0.251,-11.283,0.0372,0.873,0.104,0.134,0.186,77.503,223600,alternative r&b
+Ribs,Lorde,428,Ribs Lorde,0.511,0.472,-9.277,0.091,0.534,0.614,0.11,0.0399,127.978,258969,art pop
+Ritual Union,Little Dragon,429,Ritual Union Little Dragon,0.7,0.738,-4.398,0.0324,0.0381,0.00527,0.22,0.796,144.035,210267,alternative dance
+Ruby,Kaiser Chiefs,430,Ruby Kaiser Chiefs,0.443,0.934,-3.398,0.0501,0.00604,6.66e-06,0.0779,0.401,93.43,202800,alternative rock
+Runaways,The Killers,431,Runaways The Killers,0.409,0.837,-4.043,0.0406,0.00116,0.00651,0.0855,0.199,121.757,243787,alternative rock
+Safe and Sound,Capital Cities,432,Safe and Sound Capital Cities,0.655,0.819,-4.852,0.0316,0.000176,0.00374,0.104,0.766,117.956,192790,metropopolis
+Santa Fe,Beirut,433,Santa Fe Beirut,0.728,0.679,-6.764,0.0271,0.296,0.00733,0.11,0.953,131.715,254387,albuquerque indie
+Save Tonight,Eagle-Eye Cherry,434,Save Tonight Eagle-Eye Cherry,0.547,0.693,-8.786,0.0353,9.24e-05,5.46e-05,0.113,0.583,119.567,239227,pop rock
+Say It Ain't So,Weezer,435,Say It Ain't So Weezer,0.634,0.551,-7.136,0.0352,0.00737,1.82e-05,0.07,0.453,151.779,258827,alternative rock
+Scar Tissue,Red Hot Chili Peppers,436,Scar Tissue Red Hot Chili Peppers,0.595,0.717,-4.803,0.0295,0.0779,0.00274,0.108,0.547,88.969,215907,alternative rock
+September,"Earth, Wind & Fire",437,"September Earth, Wind & Fire",0.697,0.832,-7.264,0.0298,0.168,0.00131,0.269,0.979,125.926,215093,disco
+Sex on Fire,Kings Of Leon,438,Sex on Fire Kings Of Leon,0.542,0.905,-5.653,0.054,0.00172,0.0104,0.136,0.374,153.398,203347,modern rock
+Shake It Out,Florence + The Machine,439,Shake It Out Florence + The Machine,0.527,0.804,-4.168,0.0358,0.0104,0.0,0.105,0.221,107.486,277720,baroque pop
+She Moves In Her Own Way,The Kooks,440,She Moves In Her Own Way The Kooks,0.431,0.81,-5.379,0.066,0.276,0.0,0.0906,0.795,76.412,169307,brighton indie
+Shiny Happy People,R.E.M.,441,Shiny Happy People R.E.M.,0.452,0.909,-3.977,0.0366,0.0313,0.0603,0.23,0.805,124.623,225787,alternative rock
+Shuffle,Bombay Bicycle Club,442,Shuffle Bombay Bicycle Club,0.627,0.959,-4.744,0.0298,0.316,0.00576,0.112,0.397,109.981,235293,alternative dance
+Smile Like You Mean It,The Killers,443,Smile Like You Mean It The Killers,0.362,0.979,-2.581,0.161,0.000378,0.0151,0.231,0.383,125.087,234107,alternative rock
+Snap Out Of It,Arctic Monkeys,444,Snap Out Of It Arctic Monkeys,0.728,0.638,-6.455,0.0336,0.249,0.0,0.116,0.872,130.014,193030,garage rock
+Some Nights,Fun.,445,Some Nights Fun.,0.672,0.738,-7.045,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,277040,baroque pop
+Somebody Told Me,The Killers,446,Somebody Told Me The Killers,0.497,0.97,-4.851,0.0836,9.04e-05,0.000674,0.101,0.689,138.081,197200,alternative rock
+Someday,The Strokes,447,Someday The Strokes,0.539,0.521,-7.46,0.0299,0.00425,0.0,0.367,0.679,106.035,183440,alternative rock
+Somewhere Only We Know,Keane,448,Somewhere Only We Know Keane,0.453,0.655,-4.22,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,236160,neo mellow
+Son Of A Preacher Man,Dusty Springfield,449,Son Of A Preacher Man Dusty Springfield,0.401,0.498,-10.682,0.0757,0.394,0.0,0.13,0.816,181.701,149160,adult standards
+Song 2,Blur,450,Song 2 Blur,0.674,0.789,-6.903,0.0676,0.00178,0.0071,0.0754,0.918,129.804,121160,alternative rock
+Song For Zula,Phosphorescent,451,Song For Zula Phosphorescent,0.486,0.623,-8.264,0.0358,0.734,0.536,0.0509,0.525,86.007,370200,alternative americana
+Sprawl II (Mountains Beyond Mountains),Arcade Fire,452,Sprawl II (Mountains Beyond Mountains) Arcade Fire,0.518,0.81,-6.445,0.029,0.016,0.0013,0.115,0.179,99.968,325547,alternative dance
+Starlight,Muse,453,Starlight Muse,0.55,0.874,-4.046,0.0321,0.000436,1.02e-05,0.206,0.318,121.61,240213,alternative rock
+Started From The Bottom,Drake,454,Started From The Bottom Drake,0.793,0.524,-7.827,0.156,0.0319,0.0,0.156,0.579,86.325,174133,canadian hip hop
+Stay With Me,Sam Smith,455,Stay With Me Sam Smith,0.418,0.42,-6.444,0.0414,0.588,6.39e-05,0.11,0.184,84.094,172724,dance pop
+Step,Vampire Weekend,456,Step Vampire Weekend,0.621,0.713,-7.226,0.102,0.605,8.28e-06,0.103,0.609,78.022,251627,baroque pop
+Still Into You,Paramore,457,Still Into You Paramore,0.602,0.923,-3.763,0.044,0.0098,0.0,0.0561,0.765,136.01,216013,candy pop
+Streets of Philadelphia,Bruce Springsteen,458,Streets of Philadelphia Bruce Springsteen,0.741,0.29,-13.251,0.0302,0.294,0.118,0.0924,0.443,93.699,195080,classic rock
+Stronger,Kanye West,459,Stronger Kanye West,0.617,0.717,-7.858,0.153,0.00564,0.0,0.408,0.49,103.992,311867,chicago rap
+Stubborn Love,The Lumineers,460,Stubborn Love The Lumineers,0.598,0.56,-11.679,0.0375,0.607,0.0432,0.196,0.221,115.01,279000,folk-pop
+"Sugar, We're Goin Down",Fall Out Boy,461,"Sugar, We're Goin Down Fall Out Boy",0.494,0.842,-4.784,0.0843,0.00579,0.0,0.122,0.574,162.011,229093,emo
+Summertime Sadness,Lana Del Rey,462,Summertime Sadness Lana Del Rey,0.572,0.81,-5.791,0.0558,0.0157,6.53e-06,0.13,0.11,126.052,214912,art pop
+Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix,Lana Del Rey,463,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix Lana Del Rey,0.572,0.81,-5.791,0.0558,0.0157,6.53e-06,0.13,0.11,126.052,214912,art pop
+Sunshine Of Your Love,Cream,464,Sunshine Of Your Love Cream,0.683,0.594,-8.289,0.0347,0.385,8.61e-05,0.121,0.734,115.099,250400,album rock
+Supermassive Black Hole,Muse,465,Supermassive Black Hole Muse,0.668,0.921,-3.727,0.0439,0.0492,0.00517,0.0877,0.782,120.0,212440,alternative rock
+Suspicious Minds,Elvis Presley,466,Suspicious Minds Elvis Presley,0.487,0.382,-10.889,0.0309,0.0422,4.74e-06,0.411,0.714,116.557,261280,adult standards
+Sweater Weather,The Neighbourhood,467,Sweater Weather The Neighbourhood,0.612,0.807,-2.81,0.0336,0.0495,0.0177,0.101,0.398,124.053,240400,modern alternative rock
+Sweet Nothing,Calvin Harris,468,Sweet Nothing Calvin Harris,0.573,0.929,-3.942,0.109,0.197,0.000112,0.0567,0.582,127.934,212560,dance pop
+Sympathy For The Devil,The Rolling Stones,469,Sympathy For The Devil The Rolling Stones,0.702,0.668,-9.237,0.214,0.518,0.0,0.0588,0.561,116.063,378147,british invasion
+Talk Dirty (feat. 2 Chainz),Jason Derulo,470,Talk Dirty (feat. 2 Chainz) Jason Derulo,0.76,0.652,-7.321,0.232,0.0348,0.0,0.307,0.759,100.315,177685,pop rap
+Taro,alt-J,471,Taro alt-J,0.356,0.48,-10.633,0.0347,0.778,0.00327,0.0784,0.283,171.79,305981,indie rock
+Team,Lorde,472,Team Lorde,0.69,0.578,-7.436,0.0929,0.167,0.0,0.305,0.416,99.961,193059,art pop
+Tennis Court,Lorde,473,Tennis Court Lorde,0.764,0.567,-8.585,0.0609,0.0126,9.51e-05,0.257,0.428,89.988,198907,art pop
+Tessellate,alt-J,474,Tessellate alt-J,0.702,0.607,-6.509,0.0405,0.364,0.0263,0.123,0.436,116.961,181400,indie rock
+The Bad Touch,Bloodhound Gang,475,The Bad Touch Bloodhound Gang,0.831,0.735,-6.254,0.0384,0.00397,0.0205,0.123,0.97,122.979,260507,alternative metal
+The Chain,Fleetwood Mac,476,The Chain Fleetwood Mac,0.545,0.67,-8.81,0.0496,0.009,0.000822,0.0451,0.481,151.553,270213,album rock
+The High Road,Broken Bells,477,The High Road Broken Bells,0.61,0.638,-6.574,0.0238,0.0672,6.59e-06,0.283,0.603,79.955,232200,alternative dance
+The House Of The Rising Sun,The Animals,478,The House Of The Rising Sun The Animals,0.295,0.584,-6.696,0.0345,0.000385,0.218,0.0996,0.228,117.2,271280,album rock
+The Middle,Jimmy Eat World,479,The Middle Jimmy Eat World,0.643,0.849,-5.428,0.0526,0.0371,0.0,0.058,0.903,162.152,165853,alternative rock
+The Reason,Hoobastank,480,The Reason Hoobastank,0.472,0.671,-4.649,0.029,0.0129,0.0,0.159,0.0681,82.952,232800,alternative metal
+The Times They Are A-Changin',Bob Dylan,481,The Times They Are A-Changin' Bob Dylan,0.389,0.396,-7.999,0.0332,0.887,0.0,0.0828,0.585,171.86,192053,album rock
+There Is A Light That Never Goes Out,The Smiths,482,There Is A Light That Never Goes Out The Smiths,0.523,0.769,-5.855,0.0269,0.04,0.0,0.136,0.876,136.162,244587,madchester
+Thinkin Bout You,Frank Ocean,483,Thinkin Bout You Frank Ocean,0.721,0.339,-11.195,0.0532,0.409,0.00153,0.0973,0.2,129.83,200747,alternative r&b
+This Charming Man,The Smiths,484,This Charming Man The Smiths,0.611,0.846,-5.9,0.0436,0.00509,0.0,0.0784,0.751,103.912,162920,madchester
+This Head I Hold,Electric Guest,485,This Head I Hold Electric Guest,0.663,0.873,-4.915,0.0328,0.0268,0.0108,0.261,0.962,162.024,175773,alternative dance
+This Love,Maroon 5,486,This Love Maroon 5,0.712,0.862,-4.612,0.0378,0.0525,0.0,0.093,0.809,95.051,206200,pop
+Thrift Shop - feat. Wanz,Macklemore & Ryan Lewis,487,Thrift Shop - feat. Wanz Macklemore & Ryan Lewis,0.781,0.526,-6.986,0.293,0.0633,0.0,0.0457,0.665,94.993,235613,seattle hip hop
+Tighten Up,The Black Keys,488,Tighten Up The Black Keys,0.504,0.705,-6.179,0.0665,0.00121,4.12e-06,0.453,0.567,108.965,211080,alternative rock
+Time After Time,Cyndi Lauper,489,Time After Time Cyndi Lauper,0.726,0.449,-9.206,0.0286,0.487,1.34e-06,0.0824,0.294,130.388,241333,mellow gold
+Time Is Running Out,Muse,490,Time Is Running Out Muse,0.585,0.842,-5.883,0.0556,0.00242,0.00686,0.0866,0.428,118.211,237040,alternative rock
+Tiny Dancer,Elton John,491,Tiny Dancer Elton John,0.414,0.428,-11.097,0.0278,0.382,0.000243,0.148,0.282,145.075,377093,glam rock
+To Build A Home,The Cinematic Orchestra,492,To Build A Home The Cinematic Orchestra,0.264,0.128,-15.443,0.034,0.885,0.352,0.105,0.0774,148.499,370667,downtempo
+Today,The Smashing Pumpkins,493,Today The Smashing Pumpkins,0.456,0.826,-7.611,0.0268,3.35e-05,0.57,0.0548,0.415,82.539,201173,alternative metal
+Tongue Tied,Grouplove,494,Tongue Tied Grouplove,0.56,0.936,-5.835,0.0439,0.00847,0.0,0.161,0.371,112.96,218013,indie pop
+"Tonight, Tonight",The Smashing Pumpkins,495,"Tonight, Tonight The Smashing Pumpkins",0.277,0.67,-9.381,0.0376,6.28e-05,0.751,0.237,0.217,148.342,254627,alternative metal
+Too Close,Alex Clare,496,Too Close Alex Clare,0.584,0.712,-4.311,0.0395,0.0112,1.05e-06,0.114,0.286,126.043,256560,modern alternative rock
+Torn,Natalie Imbruglia,497,Torn Natalie Imbruglia,0.575,0.886,-5.182,0.034,0.0647,0.000187,0.709,0.609,96.31,244667,dance pop
+Towers,Bon Iver,498,Towers Bon Iver,0.379,0.334,-12.412,0.0316,0.945,0.708,0.273,0.133,91.565,188040,eau claire indie
+Trouble,Coldplay,499,Trouble Coldplay,0.565,0.546,-7.496,0.0314,0.189,0.0015,0.17,0.195,139.757,273427,permanent wave
+Tubthumping,Chumbawamba,500,Tubthumping Chumbawamba,0.263,0.871,-7.496,0.131,0.106,0.0,0.363,0.622,206.68,278960,anarcho-punk
+Two Princes,Spin Doctors,501,Two Princes Spin Doctors,0.543,0.912,-10.71,0.0601,0.00162,2.1e-06,0.0565,0.836,103.731,256733,alternative rock
+U Can't Touch This,MC Hammer,502,U Can't Touch This MC Hammer,0.867,0.517,-13.222,0.0875,0.00456,0.000339,0.0864,0.866,133.148,257360,hip hop
+Unbelievers,Vampire Weekend,503,Unbelievers Vampire Weekend,0.644,0.811,-7.774,0.0517,0.149,0.000473,0.17,0.817,154.909,202667,baroque pop
+Undercover Martyn,Two Door Cinema Club,504,Undercover Martyn Two Door Cinema Club,0.442,0.872,-5.072,0.123,0.00025,1.74e-05,0.0602,0.568,159.867,167773,indietronica
+Uprising,Muse,505,Uprising Muse,0.602,0.905,-4.046,0.0775,0.000202,0.064,0.117,0.411,128.019,304840,alternative rock
+VCR,The xx,506,VCR The xx,0.755,0.482,-12.729,0.03,0.891,0.818,0.1,0.48,109.354,177093,downtempo
+Video Games,Lana Del Rey,507,Video Games Lana Del Rey,0.236,0.249,-9.595,0.0348,0.811,1e-06,0.087,0.181,72.847,281960,art pop
+We Are Young (feat. Janelle Monáe) - feat. Janelle Monae,Fun.,508,We Are Young (feat. Janelle Monáe) - feat. Janelle Monae Fun.,0.445,0.296,-7.091,0.0419,0.815,0.0,0.0562,0.289,169.331,272547,baroque pop
+We Are the People,Empire Of The Sun,509,We Are the People Empire Of The Sun,0.675,0.781,-5.404,0.0306,0.0801,0.0143,0.422,0.534,122.989,267373,alternative dance
+"Welcome Home, Son",Radical Face,510,"Welcome Home, Son Radical Face",0.587,0.497,-10.757,0.0307,0.723,0.782,0.142,0.401,144.972,287634,indie folk
+What Is Love,Haddaway,511,What Is Love Haddaway,0.683,0.772,-7.907,0.0311,0.0222,0.0149,0.203,0.737,123.871,270373,bubblegum dance
+What Makes You Beautiful,One Direction,512,What Makes You Beautiful One Direction,0.726,0.787,-2.494,0.0737,0.009,0.0,0.0596,0.888,124.99,199987,boy band
+What The Water Gave Me,Florence + The Machine,513,What The Water Gave Me Florence + The Machine,0.491,0.566,-6.445,0.0319,0.00933,0.000226,0.114,0.184,124.091,333467,baroque pop
+What You Know,Two Door Cinema Club,514,What You Know Two Door Cinema Club,0.561,0.741,-4.239,0.0419,0.000715,1.4e-05,0.0822,0.776,139.001,191707,indietronica
+What's Up?,4 Non Blondes,515,What's Up? 4 Non Blondes,0.565,0.564,-10.044,0.0292,0.161,0.0,0.114,0.454,134.355,295533,new wave pop
+When A Fire Starts To Burn,Disclosure,516,When A Fire Starts To Burn Disclosure,0.625,0.756,-6.954,0.231,0.00933,0.00134,0.324,0.673,123.948,284027,house
+When I Come Around,Green Day,517,When I Come Around Green Day,0.531,0.909,-4.236,0.034,0.0175,0.0,0.231,0.814,97.546,178000,permanent wave
+When You Were Young,The Killers,518,When You Were Young The Killers,0.467,0.988,-3.313,0.112,0.000152,0.0484,0.28,0.321,130.433,220427,alternative rock
+White Noise,Disclosure,519,White Noise Disclosure,0.683,0.845,-6.17,0.051,0.0103,0.000108,0.345,0.874,119.966,277520,house
+White Winter Hymnal,Fleet Foxes,520,White Winter Hymnal Fleet Foxes,0.817,0.414,-12.478,0.0533,0.13,3.85e-05,0.0678,0.479,125.987,167253,a cappella
+Wind Of Change,Scorpions,521,Wind Of Change Scorpions,0.452,0.524,-10.108,0.0351,0.315,0.0,0.103,0.246,151.505,312360,album rock
+With Or Without You,U2,522,With Or Without You U2,0.54,0.429,-11.822,0.0285,0.000202,0.355,0.141,0.113,110.171,295516,irish rock
+Wrecking Ball,Miley Cyrus,523,Wrecking Ball Miley Cyrus,0.53,0.422,-6.262,0.0342,0.407,0.0,0.107,0.349,119.964,221360,dance pop
+Yellow,Coldplay,524,Yellow Coldplay,0.429,0.661,-7.227,0.0281,0.00239,0.000121,0.234,0.285,173.372,266773,permanent wave
+You & Me - Flume Remix,Disclosure,525,You & Me - Flume Remix Disclosure,0.593,0.392,-6.872,0.0257,0.382,0.000114,0.131,0.25,75.065,282813,house
+You Can Call Me Al,Paul Simon,526,You Can Call Me Al Paul Simon,0.776,0.763,-8.124,0.0534,0.182,0.00647,0.077,0.82,128.433,280000,classic rock
+You Make My Dreams,Daryl Hall & John Oates,527,You Make My Dreams Daryl Hall & John Oates,0.751,0.501,-12.151,0.0551,0.234,0.112,0.0467,0.902,167.057,190627,album rock
+Young And Beautiful,Lana Del Rey,528,Young And Beautiful Lana Del Rey,0.324,0.416,-8.92,0.0368,0.262,3.69e-05,0.11,0.151,113.986,236053,art pop
+Young Blood,The Naked And Famous,529,Young Blood The Naked And Famous,0.579,0.865,-4.692,0.0302,5.63e-05,0.000221,0.649,0.358,104.99,246600,alternative dance
+Your Love,The Outfield,530,Your Love The Outfield,0.555,0.757,-7.868,0.0601,0.103,1.16e-06,0.0631,0.582,129.607,221840,album rock
+Paradise,Coldplay,531,Paradise Coldplay,0.449,0.585,-6.761,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,278719,permanent wave
+Work B**ch,Britney Spears,532,Work B**ch Britney Spears,0.798,0.338,-13.795,0.0384,0.618,0.956,0.107,0.187,124.006,333871,"Sorry, that one does not seem to be on any of  Spotify data yet"
+Heartbeat,Childish Gambino,533,Heartbeat Childish Gambino,0.8,0.545,-7.002,0.126,0.00373,0.000507,0.0445,0.292,119.965,269840,atl hip hop
+Lust For Life,Iggy Pop,534,Lust For Life Iggy Pop,0.383,0.97,-5.638,0.0435,0.0276,0.0,0.0942,0.62,101.603,313926,alternative rock
+You Get What You Give,New Radicals,535,You Get What You Give New Radicals,0.621,0.901,-5.396,0.0302,0.17,0.0,0.0875,0.744,113.967,300773,pop rock
+Outside,Calvin Harris,536,Outside Calvin Harris,0.646,0.823,-4.123,0.0394,0.213,0.0,0.322,0.418,128.035,227267,pop
+Anything Could Happen,Ellie Goulding,537,Anything Could Happen Ellie Goulding,0.702,0.781,-4.081,0.03,0.433,0.0,0.135,0.382,102.997,286322,dance pop
+Mirrors,Justin Timberlake,538,Mirrors Justin Timberlake,0.574,0.512,-6.664,0.0503,0.234,0.0,0.0946,0.512,76.899,484147,dance pop
+Suit & Tie,Justin Timberlake,539,Suit & Tie Justin Timberlake,0.795,0.596,-3.799,0.219,0.103,0.0,0.164,0.357,101.985,326280,dance pop
+"Happy - From Despicable Me 2""""",Pharrell Williams,540,"Happy - From Despicable Me 2"""" Pharrell Williams",0.647,0.822,-4.662,0.183,0.219,0.0,0.0908,0.962,160.019,232720,pop rap
+Royals,Lorde,541,Royals Lorde,0.674,0.428,-9.504,0.122,0.121,0.0,0.132,0.337,84.878,190185,art pop
+A Sky Full of Stars,Coldplay,542,A Sky Full of Stars Coldplay,0.545,0.675,-6.474,0.0279,0.00617,0.00197,0.209,0.162,124.97,267867,permanent wave
+Rolling In The Deep,Adele,543,Rolling In The Deep Adele,0.73,0.769,-5.114,0.0298,0.138,0.0,0.0473,0.507,104.948,228093,british soul
+The Scientist,Coldplay,544,The Scientist Coldplay,0.557,0.442,-7.224,0.0243,0.731,1.46e-05,0.11,0.213,146.277,309600,permanent wave
+La La La,Naughty Boy,545,La La La Naughty Boy,0.772,0.65,-5.202,0.0306,0.107,1.13e-06,0.0905,0.262,125.082,222200,tropical house
+Fluorescent Adolescent,Arctic Monkeys,546,Fluorescent Adolescent Arctic Monkeys,0.646,0.813,-5.29,0.0288,0.00178,2.26e-05,0.144,0.821,112.115,173493,garage rock
+I Will Wait,Mumford & Sons,547,I Will Wait Mumford & Sons,0.48,0.756,-5.399,0.0333,0.00993,0.00704,0.312,0.447,131.127,276720,modern folk rock
+Junk of the Heart (Happy),The Kooks,548,Junk of the Heart (Happy) The Kooks,0.604,0.894,-5.0,0.037,0.0212,0.0,0.0299,0.901,145.017,187253,brighton indie
+Little Lion Man,Mumford & Sons,549,Little Lion Man Mumford & Sons,0.517,0.481,-8.273,0.0272,0.0293,1.79e-05,0.0903,0.461,138.51,246973,modern folk rock
+We Are Never Ever Getting Back Together,Taylor Swift,550,We Are Never Ever Getting Back Together Taylor Swift,0.567,0.686,-6.139,0.175,0.0317,1.86e-06,0.0732,0.716,172.014,193147,pop
+Elastic Heart,Sia,551,Elastic Heart Sia,0.421,0.791,-4.998,0.0496,0.0117,1.48e-05,0.146,0.499,130.075,257200,australian dance
+A-Punk,Vampire Weekend,552,A-Punk Vampire Weekend,0.551,0.819,-4.489,0.0525,0.0103,0.0437,0.153,0.846,174.917,137760,baroque pop
+Bitter Sweet Symphony,The Verve,553,Bitter Sweet Symphony The Verve,0.356,0.917,-6.006,0.0479,0.0335,0.0,0.406,0.518,171.176,357267,alternative rock
+Happy,Pharrell Williams,554,Happy Pharrell Williams,0.647,0.822,-4.662,0.183,0.219,0.0,0.0908,0.962,160.019,232720,pop rap
+Viva La Vida,Coldplay,555,Viva La Vida Coldplay,0.486,0.617,-7.115,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,242373,permanent wave
+Burn,Ellie Goulding,556,Burn Ellie Goulding,0.559,0.777,-5.031,0.0432,0.31,0.0,0.105,0.329,87.016,231212,dance pop
+Someone Like You,Adele,557,Someone Like You Adele,0.556,0.319,-8.251,0.0281,0.893,0.0,0.0996,0.294,135.187,285240,british soul
+Last Christmas - Single Version,Wham!,558,Last Christmas - Single Version Wham!,0.798,0.548,-9.115,0.0314,0.161,2.44e-06,0.0732,0.832,105.765,283800,new wave pop
+Let's Stay Together,Al Green,559,Let's Stay Together Al Green,0.756,0.397,-10.701,0.0522,0.57,0.0115,0.0542,0.507,101.985,199396,classic soul
+Trojans,Atlas Genius,560,Trojans Atlas Genius,0.721,0.822,-4.843,0.0391,0.0113,7.01e-05,0.0898,0.536,140.002,217387,indie poptimism
+Skinny Love,Birdy,561,Skinny Love Birdy,0.379,0.29,-8.485,0.051,0.952,0.00106,0.118,0.169,166.467,201080,pop
+Civilization,Justice,562,Civilization Justice,0.575,0.625,-5.296,0.0345,0.00145,0.0,0.0817,0.282,111.984,250826,alternative dance
+Finally Moving,Pretty Lights,563,Finally Moving Pretty Lights,0.735,0.555,-8.84,0.0366,0.382,0.856,0.0952,0.523,100.01,277975,edm
+Maps,Yeah Yeah Yeahs,564,Maps Yeah Yeah Yeahs,0.502,0.941,-5.194,0.0716,0.000346,0.319,0.553,0.124,119.783,219987,alternative dance
+Skinny Love,Bon Iver,565,Skinny Love Bon Iver,0.592,0.263,-14.029,0.0568,0.845,5.68e-06,0.127,0.109,76.366,238520,eau claire indie
+Something Good Can Work,Two Door Cinema Club,566,Something Good Can Work Two Door Cinema Club,0.648,0.833,-5.321,0.0327,0.00583,0.000787,0.178,0.64,119.935,164187,indietronica
+You Know I'm No Good,Amy Winehouse,567,You Know I'm No Good Amy Winehouse,0.694,0.496,-14.222,0.0329,0.0139,0.00356,0.0644,0.799,103.372,257187,british soul
+Black Skinhead,Kanye West,568,Black Skinhead Kanye West,0.766,0.809,-6.123,0.279,0.0011,0.0,0.168,0.325,130.127,188013,chicago rap
+Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,569,Can't Hold Us - feat. Ray Dalton Macklemore & Ryan Lewis,0.641,0.922,-4.457,0.0786,0.0291,0.0,0.0862,0.847,146.078,258343,dance pop
+Club Foot,Kasabian,570,Club Foot Kasabian,0.238,0.919,-6.893,0.0816,0.0257,2.31e-05,0.0914,0.123,101.752,214373,alternative rock
+Forgot About Dre,Dr. Dre,571,Forgot About Dre Dr. Dre,0.924,0.74,-1.299,0.0774,0.0827,0.0,0.163,0.621,133.974,222293,rap
+Lights - Single Version,Ellie Goulding,572,Lights - Single Version Ellie Goulding,0.683,0.789,-6.132,0.0353,0.0283,0.0492,0.112,0.809,120.013,211800,dance pop
+Otis,JAY Z,573,Otis JAY Z,0.754,0.631,-4.751,0.307,0.552,0.0,0.5,0.432,94.577,178213,rap
+Radioactive,Imagine Dragons,574,Radioactive Imagine Dragons,0.448,0.784,-3.686,0.0627,0.106,0.000108,0.668,0.236,136.245,186813,modern rock
+Run This Town [Jay-Z + Rihanna + Kanye West],JAY Z,575,Run This Town [Jay-Z + Rihanna + Kanye West] JAY Z,0.674,0.717,-7.865,0.0521,0.013,0.829,0.0592,0.256,84.938,276000,workout product
+The Monster,Eminem,576,The Monster Eminem,0.781,0.853,-3.68,0.0715,0.0525,0.0,0.12,0.624,110.049,250189,detroit hip hop
+The Seed (2.0),The Roots,577,The Seed (2.0) The Roots,0.758,0.957,-2.281,0.0357,0.039,0.0,0.133,0.966,111.121,267933,alternative hip hop
+i,Kendrick Lamar,578,i Kendrick Lamar,0.755,0.884,-5.296,0.0638,0.0208,2.97e-06,0.248,0.897,121.927,231933,conscious hip hop
+Afterlife,Arcade Fire,579,Afterlife Arcade Fire,0.64,0.868,-5.527,0.0341,0.0986,0.0454,0.242,0.798,115.968,353086,alternative dance
+Best Day Of My Life,American Authors,580,Best Day Of My Life American Authors,0.673,0.902,-2.392,0.0346,0.0591,0.000262,0.0558,0.538,100.012,194240,indie poptimism
+Call Me Maybe,Carly Rae Jepsen,581,Call Me Maybe Carly Rae Jepsen,0.783,0.58,-6.548,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,193400,canadian pop
+Changes - Original Mix,Faul & Wad Ad,582,Changes - Original Mix Faul & Wad Ad,0.824,0.697,-8.245,0.0372,0.00899,0.682,0.0651,0.261,125.998,343560,tropical house
+Die Young,Ke$ha,583,Die Young Ke$ha,0.711,0.7,-4.805,0.046,0.00498,0.000125,0.215,0.801,128.001,211920,dance pop
+Paradise Circus,Massive Attack,584,Paradise Circus Massive Attack,0.81,0.591,-13.385,0.0638,0.414,0.799,0.072,0.297,136.028,297775,big beat
+Samson,Regina Spektor,585,Samson Regina Spektor,0.49,0.193,-9.544,0.0421,0.862,9.74e-06,0.113,0.184,89.154,189507,indie pop
+The Man,Aloe Blacc,586,The Man Aloe Blacc,0.308,0.769,-7.256,0.065,0.0331,0.0,0.214,0.488,81.853,254880,pop soul
+The Wire,Haim,587,The Wire Haim,0.547,0.635,-5.569,0.137,0.0127,5.01e-06,0.0585,0.525,113.678,245293,art pop
+Timber,Pitbull,588,Timber Pitbull,0.581,0.963,-4.087,0.0981,0.0295,0.0,0.139,0.788,129.992,204160,pop
+Waves - Robin Schulz Radio Edit,Mr. Probz,589,Waves - Robin Schulz Radio Edit Mr. Probz,0.829,0.51,-9.334,0.0369,0.00821,0.00143,0.0829,0.45,119.994,208133,tropical house
+Come & Get It,Selena Gomez,590,Come & Get It Selena Gomez,0.546,0.787,-4.1,0.0517,0.0101,0.00021,0.0809,0.573,79.979,231987,dance pop
+Stereo Hearts - feat. Adam Levine,Gym Class Heroes,591,Stereo Hearts - feat. Adam Levine Gym Class Heroes,0.691,0.248,-17.064,0.817,0.619,0.0,0.382,0.468,130.91,59733,dance pop
+Super Bass,Nicki Minaj,592,Super Bass Nicki Minaj,0.723,0.86,-4.357,0.203,0.271,4.56e-06,0.598,0.667,126.979,200013,dance pop
+Under Pressure - Remastered 2011,Queen,593,Under Pressure - Remastered 2011 Queen,0.671,0.711,-7.813,0.0478,0.422,0.0,0.104,0.466,113.809,248440,rock
+The Look,Metronomy,594,The Look Metronomy,0.638,0.535,-7.792,0.0415,0.623,0.0391,0.0837,0.504,84.947,277653,alternative dance
+Close To Me,The Cure,595,Close To Me The Cure,0.725,0.524,-11.121,0.116,0.0748,0.764,0.0819,0.961,185.134,203267,new wave
+Crazy,Gnarls Barkley,596,Crazy Gnarls Barkley,0.835,0.741,-1.609,0.0339,0.0172,0.0577,0.0826,0.612,111.963,182066,atl hip hop
+Dancing in the Dark,Bruce Springsteen,597,Dancing in the Dark Bruce Springsteen,0.527,0.942,-5.64,0.0366,0.0115,0.0,0.188,0.495,148.723,241307,classic rock
+Heroes,David Bowie,598,Heroes David Bowie,0.49,0.758,-6.491,0.0297,0.000671,0.484,0.092,0.435,112.114,371413,art rock
+Two Weeks,Grizzly Bear,599,Two Weeks Grizzly Bear,0.537,0.712,-5.597,0.0286,0.289,0.00568,0.08,0.704,159.871,243160,alternative dance
+Reflektor,Arcade Fire,600,Reflektor Arcade Fire,0.585,0.717,-8.379,0.0311,0.0561,0.0148,0.366,0.636,111.563,450984,alternative dance
+Mercy,Kanye West,601,Mercy Kanye West,0.563,0.496,-9.381,0.406,0.0685,5.8e-05,0.173,0.426,139.993,329320,rap
+Banquet,Bloc Party,602,Banquet Bloc Party,0.578,0.892,-7.952,0.0441,0.000139,0.0111,0.215,0.892,150.253,196613,alternative dance
+Dark Horse,Katy Perry,603,Dark Horse Katy Perry,0.645,0.585,-6.122,0.0513,0.00314,0.0,0.165,0.353,131.931,215672,dance pop
+Habits (Stay High),Tove Lo,604,Habits (Stay High) Tove Lo,0.729,0.65,-3.539,0.0313,0.0702,6.69e-05,0.0829,0.347,110.02,209160,art pop
+Hot N Cold,Katy Perry,605,Hot N Cold Katy Perry,0.706,0.841,-3.956,0.0418,7.95e-05,0.0,0.0688,0.861,132.032,220227,dance pop
+TiK ToK,Ke$ha,606,TiK ToK Ke$ha,0.755,0.837,-2.718,0.142,0.0991,0.0,0.289,0.714,120.028,199693,dance pop
+"Signed, Sealed, Delivered (I'm Yours)",Stevie Wonder,607,"Signed, Sealed, Delivered (I'm Yours) Stevie Wonder",0.675,0.597,-11.329,0.0337,0.0534,0.0,0.0986,0.828,108.875,161160,adult standards
+Take Me To Church,Hozier,608,Take Me To Church Hozier,0.566,0.664,-5.303,0.0464,0.634,0.0,0.116,0.437,128.945,241693,irish singer-songwriter
+Lost,Frank Ocean,609,Lost Frank Ocean,0.913,0.603,-4.892,0.226,0.0272,0.000503,0.167,0.497,123.061,234093,alternative r&b
+Bound 2,Kanye West,610,Bound 2 Kanye West,0.367,0.665,-2.821,0.0465,0.145,0.0,0.113,0.31,148.913,229147,chicago rap
+Just Dance,Lady Gaga,611,Just Dance Lady Gaga,0.822,0.739,-4.541,0.0311,0.0264,4.26e-05,0.181,0.745,118.992,241933,dance pop
+Bad Romance,Lady Gaga,612,Bad Romance Lady Gaga,0.696,0.921,-3.755,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001,294573,art pop
+Poker Face,Lady Gaga,613,Poker Face Lady Gaga,0.851,0.806,-4.62,0.0787,0.118,1.64e-06,0.121,0.787,118.999,237200,art pop
+I Want It That Way,Backstreet Boys,614,I Want It That Way Backstreet Boys,0.689,0.694,-5.83,0.027,0.257,0.0,0.148,0.482,99.039,213307,boy band
+Total Eclipse of the Heart,Bonnie Tyler,615,Total Eclipse of the Heart Bonnie Tyler,0.431,0.723,-5.887,0.0568,0.145,0.0,0.374,0.19,130.141,267360,europop
+Toxic,Britney Spears,616,Toxic Britney Spears,0.774,0.838,-3.914,0.114,0.0249,0.025,0.242,0.924,143.04,198800,dance pop
+What's My Age Again?,blink-182,617,What's My Age Again? blink-182,0.391,0.951,-7.419,0.0692,0.0126,0.000378,0.0878,0.468,157.66,148360,pop punk
+Heart Of Gold,Neil Young,618,Heart Of Gold Neil Young,0.541,0.459,-10.433,0.0297,0.189,0.0274,0.099,0.803,171.165,187013,album rock
+Walk Of Life,Dire Straits,619,Walk Of Life Dire Straits,0.461,0.936,-6.866,0.109,0.435,9.13e-05,0.124,0.804,172.404,252467,album rock
+It Was A Good Day,Ice Cube,620,It Was A Good Day Ice Cube,0.798,0.744,-5.328,0.136,0.33,0.000106,0.292,0.794,82.356,260000,conscious hip hop
+Regulate,Warren G,621,Regulate Warren G,0.849,0.521,-12.999,0.216,0.304,1.65e-06,0.115,0.763,95.265,248867,west coast rap
+Locked Out Of Heaven,Bruno Mars,622,Locked Out Of Heaven Bruno Mars,0.726,0.698,-4.165,0.0431,0.049,0.0,0.309,0.867,143.994,233478,dance pop
+Treasure,Bruno Mars,623,Treasure Bruno Mars,0.874,0.692,-5.28,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,178560,dance pop
+When I Was Your Man,Bruno Mars,624,When I Was Your Man Bruno Mars,0.612,0.28,-8.648,0.0434,0.932,0.0,0.088,0.387,72.795,213827,dance pop
+(Sittin' On) The Dock Of The Bay,Otis Redding,625,(Sittin' On) The Dock Of The Bay Otis Redding,0.769,0.367,-11.226,0.0312,0.684,1.62e-05,0.081,0.535,103.621,163756,classic soul
+Hypnotize,The Notorious B.I.G.,626,Hypnotize The Notorious B.I.G.,0.901,0.697,-3.439,0.28,0.145,0.0,0.287,0.67,93.941,229827,east coast hip hop
+In Da Club,50 Cent,627,In Da Club 50 Cent,0.902,0.72,-2.776,0.347,0.26,0.0,0.0749,0.805,90.059,193467,east coast hip hop
+The Next Episode,Dr. Dre,628,The Next Episode Dr. Dre,0.922,0.909,-2.429,0.27,0.0281,0.0,0.0856,0.309,95.295,161507,west coast rap
+Walk This Way,RUN-DMC,629,Walk This Way RUN-DMC,0.761,0.711,-7.989,0.0604,0.0174,0.000101,0.0652,0.947,105.448,310387,east coast hip hop
+Lovely Day,Bill Withers,630,Lovely Day Bill Withers,0.692,0.651,-8.267,0.0324,0.292,0.00241,0.105,0.706,97.923,254560,funk
+99 Problems,JAY Z,631,99 Problems JAY Z,0.494,0.887,-4.297,0.398,0.00661,0.0,0.103,0.548,89.554,234627,east coast hip hop
+Born This Way,Lady Gaga,632,Born This Way Lady Gaga,0.587,0.828,-5.108,0.161,0.00327,0.0,0.331,0.494,123.907,260253,art pop
+Empire State Of Mind [Jay-Z + Alicia Keys],JAY Z,633,Empire State Of Mind [Jay-Z + Alicia Keys] JAY Z,0.696,0.683,-8.766,0.126,0.0224,1.81e-06,0.135,0.796,86.667,275753,
+Footloose,Kenny Loggins,634,Footloose Kenny Loggins,0.546,0.895,-7.189,0.0579,0.0819,1.42e-05,0.0768,0.494,174.089,220707,album rock
+Give Me Everything,Pitbull,635,Give Me Everything Pitbull,0.671,0.939,-3.206,0.161,0.191,0.0,0.298,0.53,129.024,252307,dance pop
+Love The Way You Lie,Eminem,636,Love The Way You Lie Eminem,0.749,0.925,-5.034,0.227,0.241,0.0,0.52,0.641,86.989,263373,detroit hip hop
+Memories (feat. Kid Cudi),David Guetta,637,Memories (feat. Kid Cudi) David Guetta,0.561,0.87,-6.103,0.343,0.0015,2.82e-06,0.246,0.498,129.98,210093,pop rap
+My Girl,The Temptations,638,My Girl The Temptations,0.572,0.418,-10.738,0.0349,0.635,0.0,0.0961,0.694,104.566,165000,brill building pop
+Not Afraid,Eminem,639,Not Afraid Eminem,0.855,0.954,-1.19,0.264,0.529,0.0,0.205,0.668,114.635,248133,detroit hip hop
+Sexual Healing,Marvin Gaye,640,Sexual Healing Marvin Gaye,0.805,0.602,-9.7,0.0579,0.119,0.000122,0.0581,0.744,94.382,238600,classic soul
+Sexy Bitch,David Guetta,641,Sexy Bitch David Guetta,0.813,0.627,-5.018,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,dance pop
+The Final Countdown,Europe,642,The Final Countdown Europe,0.529,0.843,-6.908,0.0616,0.0628,0.000827,0.0608,0.188,117.662,310333,album rock
+Walking On A Dream,Empire Of The Sun,643,Walking On A Dream Empire Of The Sun,0.871,0.701,-5.594,0.0458,0.257,7.52e-06,0.0589,0.716,126.975,198440,alternative dance
+When Love Takes Over (feat. Kelly Rowland),David Guetta,644,When Love Takes Over (feat. Kelly Rowland) David Guetta,0.675,0.862,-4.614,0.0253,0.0165,0.000427,0.169,0.498,129.967,191000,big room
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,645,Where Them Girls At (feat. Nicki Minaj & Flo Rida) David Guetta,0.664,0.872,-3.117,0.0396,0.0306,0.0,0.228,0.555,129.873,210093,pop rap
+Ghost,Ella Henderson,646,Ghost Ella Henderson,0.68,0.84,-3.823,0.0414,0.0457,8.66e-06,0.143,0.468,104.975,213213,dance pop
+Hideaway,Kiesza,647,Hideaway Kiesza,0.838,0.72,-4.135,0.0483,0.0862,0.00697,0.0772,0.204,122.99,251987,electropop
+I Got U,Duke Dumont,648,I Got U Duke Dumont,0.636,0.761,-7.752,0.035,0.00377,0.00784,0.0851,0.463,120.837,285596,tropical house
+My Love,Route 94,649,My Love Route 94,0.814,0.622,-7.573,0.0492,0.000132,0.72,0.0658,0.726,119.976,259934,deep groove house
+All of Me,John Legend,650,All of Me John Legend,0.422,0.264,-7.064,0.0322,0.922,0.0,0.132,0.331,119.93,269560,neo soul
+Tom Ford,JAY Z,651,Tom Ford JAY Z,0.863,0.705,-6.202,0.31,0.05,2.21e-05,0.524,0.599,145.099,189013,east coast hip hop
+You've Got The Love,Florence + The Machine,652,You've Got The Love Florence + The Machine,0.574,0.704,-4.72,0.0319,0.00455,0.0,0.107,0.368,109.999,168667,baroque pop
+Here Comes Your Man,Pixies,653,Here Comes Your Man Pixies,0.669,0.795,-10.865,0.0285,0.00772,0.0781,0.401,0.882,124.594,201187,alternative rock
+Animal,Miike Snow,654,Animal Miike Snow,0.774,0.721,-6.662,0.0773,0.0126,6.49e-06,0.0952,0.654,118.048,263427,alternative dance
+Chelsea Dagger,The Fratellis,655,Chelsea Dagger The Fratellis,0.512,0.817,-3.154,0.142,0.0505,0.0,0.0775,0.552,154.607,215173,alternative rock
+Do You Want To,Franz Ferdinand,656,Do You Want To Franz Ferdinand,0.412,0.944,-2.896,0.0448,0.0724,0.000493,0.801,0.79,123.091,215000,alternative dance
+The Real Slim Shady,Eminem,657,The Real Slim Shady Eminem,0.949,0.661,-4.244,0.0572,0.0302,0.0,0.0454,0.76,104.504,284200,detroit hip hop
+Without Me,Eminem,658,Without Me Eminem,0.908,0.669,-2.827,0.0738,0.00286,0.0,0.237,0.662,112.238,290320,detroit hip hop
+Boom Clap,Charli XCX,659,Boom Clap Charli XCX,0.659,0.911,-2.28,0.0786,0.154,0.000304,0.191,0.576,91.999,169866,art pop
+Demons,Imagine Dragons,660,Demons Imagine Dragons,0.505,0.71,-3.015,0.0321,0.19,0.00025,0.329,0.428,89.938,175200,modern rock
+Galvanize,The Chemical Brothers,661,Galvanize The Chemical Brothers,0.745,0.714,-3.681,0.0751,0.0141,0.0222,0.363,0.365,104.003,393813,alternative dance
+Heartbeats,The Knife,662,Heartbeats The Knife,0.649,0.753,-4.874,0.0319,0.0209,5.84e-05,0.105,0.46,87.989,231853,alternative dance
+Hey There Delilah,Plain White T's,663,Hey There Delilah Plain White T's,0.656,0.291,-10.572,0.0293,0.872,0.0,0.114,0.298,103.971,232533,neo mellow
+I Can Talk,Two Door Cinema Club,664,I Can Talk Two Door Cinema Club,0.475,0.753,-5.058,0.214,2.58e-05,0.0968,0.212,0.672,162.92,177427,indietronica
+Learn to Fly,Foo Fighters,665,Learn to Fly Foo Fighters,0.465,0.919,-4.025,0.0408,1.83e-05,2.07e-05,0.262,0.537,135.997,235293,alternative metal
+Let's Go Surfing,The Drums,666,Let's Go Surfing The Drums,0.577,0.814,-5.694,0.032,0.209,0.000525,0.0773,0.785,174.059,175427,brooklyn indie
+My Hero,Foo Fighters,667,My Hero Foo Fighters,0.398,0.927,-4.212,0.0567,6.2e-05,0.000177,0.0575,0.311,77.106,260027,alternative metal
+Pumped up Kicks,Foster The People,668,Pumped up Kicks Foster The People,0.733,0.71,-5.849,0.0292,0.145,0.115,0.0956,0.965,127.975,239600,indietronica
+Safe And Sound,Capital Cities,669,Safe And Sound Capital Cities,0.655,0.819,-4.852,0.0316,0.000176,0.00374,0.104,0.766,117.956,192790,metropopolis
+The Pretender,Foo Fighters,670,The Pretender Foo Fighters,0.433,0.959,-4.04,0.0431,0.000917,0.0,0.028,0.365,172.984,269373,alternative metal
+Winter Winds,Mumford & Sons,671,Winter Winds Mumford & Sons,0.324,0.494,-7.274,0.0319,0.221,0.0,0.347,0.39,125.766,219680,modern folk rock
+The Blower's Daughter,Damien Rice,672,The Blower's Daughter Damien Rice,0.342,0.2,-13.569,0.0324,0.134,0.000153,0.341,0.0743,133.113,286653,acoustic pop
+The Suburbs,Arcade Fire,673,The Suburbs Arcade Fire,0.616,0.682,-6.148,0.0265,0.0578,0.0241,0.342,0.528,117.78,315200,alternative dance
+Wake Up,Arcade Fire,674,Wake Up Arcade Fire,0.252,0.8,-4.845,0.0368,0.12,0.0538,0.118,0.29,139.361,335333,alternative dance
+Bad (feat. Vassy) - Radio Edit,David Guetta,675,Bad (feat. Vassy) - Radio Edit David Guetta,0.614,0.972,-3.927,0.088,0.00125,0.0186,0.328,0.411,127.966,170625,pop dance
+Dangerous (feat. Sam Martin),David Guetta,676,Dangerous (feat. Sam Martin) David Guetta,0.466,0.747,-4.838,0.0795,0.417,9.76e-06,0.107,0.43,92.161,203641,big room
+Lovers on the Sun (feat. Sam Martin),David Guetta,677,Lovers on the Sun (feat. Sam Martin) David Guetta,0.645,0.891,-2.505,0.0387,0.0932,3.88e-06,0.379,0.568,124.915,203520,big room
+Shot me Down (feat. Skylar Grey) - Radio Edit,David Guetta,678,Shot me Down (feat. Skylar Grey) - Radio Edit David Guetta,0.347,0.772,-4.359,0.0549,0.0597,0.0333,0.115,0.035,192.118,191412,big room
+Titanium (feat. Sia),David Guetta,679,Titanium (feat. Sia) David Guetta,0.604,0.788,-3.673,0.103,0.0678,0.153,0.127,0.301,126.06,245040,pop
+Don't Speak,No Doubt,680,Don't Speak No Doubt,0.52,0.709,-7.125,0.0352,0.247,1.78e-05,0.18,0.536,76.039,263560,alternative rock
+Over And Over,Hot Chip,681,Over And Over Hot Chip,0.774,0.794,-4.446,0.0358,0.00824,0.00317,0.08,0.724,120.002,347880,alternative dance
+All The Small Things,blink-182,682,All The Small Things blink-182,0.434,0.897,-4.918,0.0488,0.0103,0.0,0.612,0.684,148.726,167067,pop punk
+Bring Me To Life,Evanescence,683,Bring Me To Life Evanescence,0.331,0.943,-3.188,0.0698,0.00721,2.06e-06,0.242,0.296,94.612,235893,alternative metal
+I Miss You,blink-182,684,I Miss You blink-182,0.664,0.781,-6.547,0.0339,0.00103,5.33e-06,0.0867,0.593,110.0,227240,pop punk
+My Immortal,Evanescence,685,My Immortal Evanescence,0.19,0.265,-9.206,0.0356,0.863,0.0,0.134,0.101,79.012,262533,alternative metal
+Paradise City,Guns N' Roses,686,Paradise City Guns N' Roses,0.268,0.98,-5.958,0.103,0.0192,0.00709,0.182,0.395,100.315,405600,glam metal
+Times Like These,Foo Fighters,687,Times Like These Foo Fighters,0.376,0.908,-3.793,0.0879,1.4e-05,1.4e-05,0.241,0.266,144.581,265560,alternative metal
+Jailhouse Rock,Elvis Presley,688,Jailhouse Rock Elvis Presley,0.647,0.582,-9.538,0.0755,0.41,1.93e-06,0.0715,0.915,167.396,146480,adult standards
+Hey Boy Hey Girl,The Chemical Brothers,689,Hey Boy Hey Girl The Chemical Brothers,0.632,0.92,-4.976,0.0531,0.119,0.508,0.114,0.363,127.001,290493,alternative dance
+My Sharona,The Knack,690,My Sharona The Knack,0.586,0.7,-9.558,0.0363,0.0589,0.00125,0.0318,0.897,147.245,295400,album rock
+Hysteria,Muse,691,Hysteria Muse,0.412,0.92,-4.852,0.0575,0.000456,0.0026,0.11,0.455,93.162,227440,alternative rock
+You Only Live Once,The Strokes,692,You Only Live Once The Strokes,0.63,0.908,-2.42,0.0326,0.0238,0.592,0.116,0.968,120.522,189227,alternative rock
+Telephone,Lady Gaga,693,Telephone Lady Gaga,0.825,0.832,-5.853,0.0403,0.00587,0.000789,0.114,0.713,122.021,220627,pop
+All of Me - (Tiësto's Birthday Treatment Remix) [Radio Edit],John Legend,694,All of Me - (Tiësto's Birthday Treatment Remix) [Radio Edit] John Legend,0.606,0.72,-6.253,0.0283,0.000149,0.00165,0.0745,0.178,127.985,251613,pop
+Berzerk,Eminem,695,Berzerk Eminem,0.739,0.872,-4.059,0.333,0.0217,0.0,0.26,0.684,95.084,238746,detroit hip hop
+Rap God,Eminem,696,Rap God Eminem,0.708,0.843,-2.66,0.314,0.397,0.0,0.799,0.625,148.14,363521,detroit hip hop
+I Won't Give Up,Jason Mraz,697,I Won't Give Up Jason Mraz,0.585,0.303,-10.058,0.0398,0.694,0.0,0.115,0.142,136.703,240166,acoustic pop
+Stan,Eminem,698,Stan Eminem,0.78,0.768,-4.325,0.238,0.0371,2.34e-06,0.518,0.507,80.063,404107,detroit hip hop
+Problem,Ariana Grande,699,Problem Ariana Grande,0.66,0.805,-5.352,0.153,0.0192,8.83e-06,0.159,0.625,103.008,193920,pop
+I Could Be The One [Avicii vs Nicky Romero] - Nicktim - Radio Edit,Avicii,700,I Could Be The One [Avicii vs Nicky Romero] - Nicktim - Radio Edit Avicii,0.575,0.906,-6.55,0.0415,0.135,0.482,0.289,0.595,127.981,214516,karaoke
+Tears In Heaven,Eric Clapton,701,Tears In Heaven Eric Clapton,0.695,0.336,-12.999,0.0313,0.8,0.00264,0.701,0.422,79.109,280000,album rock
+Levels - Radio Edit,Avicii,702,Levels - Radio Edit Avicii,0.584,0.889,-5.941,0.0343,0.0462,0.828,0.309,0.464,126.04,199907,dance pop
+One Headlight,The Wallflowers,703,One Headlight The Wallflowers,0.701,0.539,-8.968,0.0277,0.000655,0.005,0.0589,0.752,107.531,312627,alternative rock
+Walk,Foo Fighters,704,Walk Foo Fighters,0.234,0.865,-5.131,0.0516,3.62e-05,0.000532,0.289,0.194,137.107,255960,alternative metal
+Ironic,Alanis Morissette,705,Ironic Alanis Morissette,0.408,0.582,-8.305,0.0508,0.218,0.0,0.159,0.365,114.926,230000,canadian pop
+Blue Moon,Beck,706,Blue Moon Beck,0.685,0.645,-6.73,0.0256,0.182,0.00532,0.138,0.461,119.936,242347,alternative rock
+Angels,The xx,707,Angels The xx,0.424,0.157,-18.141,0.0428,0.95,0.0593,0.101,0.342,91.537,171653,downtempo
+Beautiful Day,U2,708,Beautiful Day U2,0.539,0.926,-6.495,0.0499,0.014,0.00136,0.36,0.454,136.279,246400,irish rock
+Bounce - Radio Edit,Calvin Harris,709,Bounce - Radio Edit Calvin Harris,0.779,0.963,-2.125,0.0399,0.0334,0.493,0.664,0.759,127.941,222187,dance pop
+Bulletproof,La Roux,710,Bulletproof La Roux,0.674,0.882,-2.771,0.0477,0.000441,6.47e-05,0.068,0.682,123.016,205733,alternative dance
+Crazy in Love,Beyoncé,711,Crazy in Love Beyoncé,0.646,0.77,-6.596,0.226,0.00249,0.0,0.0715,0.681,99.165,236133,dance pop
+Cry Me a River,Justin Timberlake,712,Cry Me a River Justin Timberlake,0.624,0.654,-6.582,0.183,0.577,0.0,0.104,0.564,73.898,288333,dance pop
+Don't Stop Me Now,Queen,713,Don't Stop Me Now Queen,0.563,0.865,-5.277,0.16,0.0472,0.000191,0.77,0.601,156.271,209413,classic rock
+Firework,Katy Perry,714,Firework Katy Perry,0.638,0.826,-4.968,0.0479,0.139,0.0,0.0803,0.649,124.072,227880,dance pop
+Get Ur Freak On,Missy Elliott,715,Get Ur Freak On Missy Elliott,0.797,0.75,-9.369,0.247,0.533,0.108,0.095,0.74,177.87,211120,dance pop
+I Gotta Feeling,The Black Eyed Peas,716,I Gotta Feeling The Black Eyed Peas,0.743,0.766,-6.375,0.0265,0.0873,0.0,0.509,0.61,127.96,289133,dance pop
+Moves Like Jagger - Studio Recording From The Voice Performance,Maroon 5,717,Moves Like Jagger - Studio Recording From The Voice Performance Maroon 5,0.722,0.758,-4.477,0.0471,0.0111,0.0,0.308,0.62,128.047,201160,pop
+My Name Is,Eminem,718,My Name Is Eminem,0.869,0.68,-6.233,0.318,0.0416,1.12e-06,0.0914,0.815,85.519,268400,detroit hip hop
+November Rain,Guns N' Roses,719,November Rain Guns N' Roses,0.294,0.641,-9.316,0.0291,0.0163,0.22,0.112,0.226,79.759,536067,glam metal
+Paparazzi,Lady Gaga,720,Paparazzi Lady Gaga,0.762,0.692,-3.973,0.0438,0.113,0.0,0.094,0.397,114.906,208307,art pop
+Party Rock Anthem,LMFAO,721,Party Rock Anthem LMFAO,0.75,0.727,-4.21,0.142,0.0189,0.0,0.266,0.359,129.993,262173,dance pop
+Price Tag,Jessie J,722,Price Tag Jessie J,0.638,0.831,-3.944,0.182,0.0281,3.06e-06,0.277,0.685,175.038,223053,pop rap
+S&M,Rihanna,723,S&M Rihanna,0.769,0.684,-5.019,0.0411,0.0105,0.000125,0.0887,0.835,127.972,243600,barbadian pop
+Sexy And I Know It,LMFAO,724,Sexy And I Know It LMFAO,0.707,0.861,-4.225,0.316,0.1,0.0,0.191,0.795,130.021,199480,dance pop
+Summer Of '69,Bryan Adams,725,Summer Of '69 Bryan Adams,0.508,0.834,-6.205,0.0386,0.0183,0.0,0.0732,0.774,139.131,216053,album rock
+The Cave,Mumford & Sons,726,The Cave Mumford & Sons,0.595,0.506,-9.682,0.0388,0.0464,0.000138,0.107,0.346,141.981,217987,modern folk rock
+Use Somebody,Kings Of Leon,727,Use Somebody Kings Of Leon,0.276,0.715,-5.356,0.0432,0.00552,0.000417,0.201,0.173,137.028,230760,modern rock
+We Found Love,Rihanna,728,We Found Love Rihanna,0.734,0.766,-4.485,0.0383,0.025,0.00138,0.108,0.6,127.986,215227,pop rap
+Welcome To The Jungle,Guns N' Roses,729,Welcome To The Jungle Guns N' Roses,0.453,0.987,-4.485,0.0889,0.0195,0.283,0.268,0.316,123.544,273480,glam metal
+Bitter Sweet Symphony - 2004 Digital Remaster,The Verve,730,Bitter Sweet Symphony - 2004 Digital Remaster The Verve,0.354,0.9,-7.071,0.0453,0.038,0.0,0.274,0.523,171.06,358693,alternative rock
+Don't Look Back In Anger,Oasis,731,Don't Look Back In Anger Oasis,0.328,0.936,-3.254,0.0628,0.0665,2.61e-06,0.165,0.31,162.97,289560,beatlesque
+Down Under,Men At Work,732,Down Under Men At Work,0.746,0.79,-4.7,0.0257,0.0485,0.0261,0.0534,0.891,107.231,220867,album rock
+Eye of the Tiger,Survivor,733,Eye of the Tiger Survivor,0.817,0.599,-9.249,0.0328,0.132,0.000311,0.0873,0.548,108.873,245640,album rock
+Stairway To Heaven,Led Zeppelin,734,Stairway To Heaven Led Zeppelin,0.338,0.34,-12.049,0.0339,0.58,0.0032,0.116,0.197,82.433,482830,album rock
+Wake Me up Before You Go-Go,Wham!,735,Wake Me up Before You Go-Go Wham!,0.62,0.573,-11.893,0.0423,0.271,0.0,0.0607,0.897,81.548,231333,new wave pop
+All That She Wants,Ace of Base,736,All That She Wants Ace of Base,0.798,0.625,-9.689,0.0548,0.00547,7.98e-05,0.103,0.858,93.764,211213,bubblegum dance
+Diamonds,Rihanna,737,Diamonds Rihanna,0.564,0.71,-4.92,0.0461,0.00125,0.0,0.109,0.393,91.972,225147,barbadian pop
+Nothing Compares 2 U,Sinead O'Connor,738,Nothing Compares 2 U Sinead O'Connor,0.511,0.574,-7.016,0.0273,0.0425,2.33e-05,0.105,0.161,119.917,280040,lilith
+One More Night,Maroon 5,739,One More Night Maroon 5,0.718,0.82,-3.453,0.0323,0.0444,0.0,0.0846,0.613,92.998,219467,pop
+Yeah!,Usher,740,Yeah! Usher,0.894,0.791,-4.699,0.112,0.0183,0.0,0.0388,0.583,105.018,250373,atl hip hop
+Limit To Your Love,James Blake,741,Limit To Your Love James Blake,0.775,0.281,-10.216,0.096,0.549,0.242,0.0941,0.0398,139.949,276720,alternative r&b
+Butterfly,Crazy Town,742,Butterfly Crazy Town,0.736,0.811,-4.17,0.081,0.00132,0.000142,0.107,0.609,103.502,216733,alternative metal
+Happy Together,The Turtles,743,Happy Together The Turtles,0.584,0.367,-9.638,0.0328,0.55,1.38e-05,0.0818,0.588,120.175,176293,brill building pop
+I'm Yours,Jason Mraz,744,I'm Yours Jason Mraz,0.686,0.457,-8.322,0.0468,0.595,0.0,0.105,0.718,150.953,242187,acoustic pop
+Lose Yourself to Dance,Daft Punk,745,Lose Yourself to Dance Daft Punk,0.832,0.659,-7.828,0.057,0.0839,0.00114,0.0753,0.674,100.163,353893,electro
+Under Control,Calvin Harris,746,Under Control Calvin Harris,0.544,0.915,-3.405,0.0841,0.129,0.000914,0.115,0.51,126.094,184280,pop
+Walk on the Wild Side,Lou Reed,747,Walk on the Wild Side Lou Reed,0.575,0.318,-16.729,0.109,0.683,0.000202,0.0934,0.385,104.522,254173,art rock
+Get Lucky,Daft Punk,748,Get Lucky Daft Punk,0.794,0.811,-8.966,0.038,0.0426,1.07e-06,0.101,0.862,116.047,248413,electro
+Give Life Back to Music,Daft Punk,749,Give Life Back to Music Daft Punk,0.788,0.616,-10.671,0.0337,0.00286,0.549,0.0952,0.696,119.037,275387,electro
+Wannabe,Spice Girls,750,Wannabe Spice Girls,0.768,0.864,-6.145,0.0324,0.101,0.0,0.162,0.891,110.008,173027,dance pop
+Greyhound,Swedish House Mafia,751,Greyhound Swedish House Mafia,0.723,0.806,-4.989,0.0521,0.00661,0.873,0.276,0.539,124.976,410097,dance pop
+Babel,Mumford & Sons,752,Babel Mumford & Sons,0.373,0.813,-6.13,0.0543,0.0253,0.000227,0.0826,0.647,80.465,208933,modern folk rock
+Blurred Lines,Robin Thicke,753,Blurred Lines Robin Thicke,0.853,0.599,-4.756,0.0411,0.00334,7.93e-06,0.0759,0.843,119.993,263827,pop rap
+Doin' it Right,Daft Punk,754,Doin' it Right Daft Punk,0.804,0.451,-8.207,0.0949,0.388,2.17e-05,0.0924,0.19,178.061,251293,electro
+Just Give Me a Reason,P!nk,755,Just Give Me a Reason P!nk,0.778,0.547,-7.273,0.0489,0.346,0.000302,0.132,0.441,95.002,242733,dance pop
+One Day / Reckoning Song (Wankelmut Remix) - Radio Edit,The Mojos,756,One Day / Reckoning Song (Wankelmut Remix) - Radio Edit The Mojos,0.826,0.668,-6.329,0.0571,0.223,6.92e-05,0.167,0.534,118.99,215187,israeli pop
+Undisclosed Desires,Muse,757,Undisclosed Desires Muse,0.683,0.585,-6.76,0.0323,0.00819,0.0162,0.0797,0.641,115.997,235000,alternative rock
+"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,758,"Young, Wild & Free (feat. Bruno Mars) Snoop Dogg",0.715,0.655,-6.425,0.137,0.0525,0.0,0.115,0.531,95.078,207333,dance pop
+Love Love Love,Of Monsters and Men,759,Love Love Love Of Monsters and Men,0.324,0.367,-9.814,0.0377,0.806,8.98e-05,0.0836,0.16,110.947,238787,folk-pop
+Kryptonite,3 Doors Down,760,Kryptonite 3 Doors Down,0.545,0.865,-5.708,0.0286,0.00664,1.1e-05,0.168,0.543,99.009,233933,alternative metal
+Only Love,Ben Howard,761,Only Love Ben Howard,0.545,0.485,-9.941,0.151,0.3,0.00137,0.119,0.341,80.401,249173,british singer-songwriter
+Can't Get You Out Of My Head,Kylie Minogue,762,Can't Get You Out Of My Head Kylie Minogue,0.766,0.563,-7.516,0.0339,0.0263,0.683,0.115,0.964,126.007,230640,australian dance
+Alejandro,Lady Gaga,763,Alejandro Lady Gaga,0.626,0.799,-6.612,0.046,0.000358,0.00155,0.36,0.369,98.992,274213,art pop
+Scary Monsters And Nice Sprites,Skrillex,764,Scary Monsters And Nice Sprites Skrillex,0.523,0.944,-3.581,0.0837,0.00336,0.557,0.119,0.324,139.997,243354,brostep
+Stronger (What Doesn't Kill You),Kelly Clarkson,765,Stronger (What Doesn't Kill You) Kelly Clarkson,0.562,0.939,-4.282,0.0475,0.046,0.0,0.112,0.684,116.044,221947,dance pop
+Gangnam Style (강남스타일),PSY,766,Gangnam Style (강남스타일) PSY,0.727,0.937,-2.871,0.286,0.00417,0.0,0.091,0.749,132.067,219493,k-pop
+Hall of Fame,The Script,767,Hall of Fame The Script,0.421,0.873,-4.343,0.0564,0.0654,0.0,0.123,0.629,84.786,202533,pop
+I Still Haven't Found What I'm Looking For,U2,768,I Still Haven't Found What I'm Looking For U2,0.564,0.774,-9.424,0.0368,0.0135,0.00191,0.0861,0.657,100.894,277477,irish rock
+Scream & Shout,will.i.am,769,Scream & Shout will.i.am,0.772,0.685,-6.849,0.0696,0.019,8.96e-05,0.131,0.501,130.033,283400,pop
+Addicted To You,Avicii,770,Addicted To You Avicii,0.569,0.785,-4.057,0.0457,0.0505,1.12e-06,0.086,0.303,128.031,148387,dance pop
+Applause,Lady Gaga,771,Applause Lady Gaga,0.669,0.78,-4.287,0.053,0.0265,1.63e-06,0.143,0.738,139.945,212333,art pop
+Do What U Want,Lady Gaga,772,Do What U Want Lady Gaga,0.778,0.801,-4.65,0.086,0.345,1.18e-06,0.0881,0.534,97.47,216573,pop
+I Need Your Love,Calvin Harris,773,I Need Your Love Calvin Harris,0.695,0.869,-5.066,0.0483,0.41,0.0,0.237,0.58,124.989,234507,pop
+Roar,Katy Perry,774,Roar Katy Perry,0.671,0.771,-4.821,0.0316,0.00492,7.28e-06,0.354,0.436,90.003,223546,dance pop
+This Is What It Feels Like,Armin van Buuren,775,This Is What It Feels Like Armin van Buuren,0.332,0.614,-8.13,0.0353,0.129,0.0257,0.146,0.109,130.011,239800,dutch trance
+We Can't Stop,Miley Cyrus,776,We Can't Stop Miley Cyrus,0.613,0.622,-5.794,0.0334,0.00882,0.0,0.37,0.484,80.003,231240,dance pop
+You Make Me,Avicii,777,You Make Me Avicii,0.586,0.727,-4.799,0.039,0.00247,0.0107,0.152,0.496,124.99,233347,dance pop
+Feel This Moment,Pitbull,778,Feel This Moment Pitbull,0.673,0.758,-3.632,0.158,0.039,0.0,0.341,0.542,135.956,229507,pop
+She Wolf (Falling to Pieces) [feat. Sia],David Guetta,779,She Wolf (Falling to Pieces) [feat. Sia] David Guetta,0.491,0.857,-2.634,0.0656,0.0834,7.57e-06,0.344,0.395,129.971,222500,pop
+Starships,Nicki Minaj,780,Starships Nicki Minaj,0.747,0.716,-2.457,0.075,0.135,0.0,0.251,0.751,125.008,210627,dance pop
+Try,P!nk,781,Try P!nk,0.674,0.628,-7.079,0.03,0.00144,0.0,0.0944,0.552,103.998,247907,dance pop
+We'll Be Coming Back,Calvin Harris,782,We'll Be Coming Back Calvin Harris,0.596,0.952,-4.364,0.0873,0.00131,0.0,0.598,0.571,127.945,234360,house
+Red Lights,Tiësto,783,Red Lights Tiësto,0.654,0.83,-4.801,0.0366,0.000629,1.13e-06,0.121,0.548,124.989,262200,big room
+Animals,Martin Garrix,784,Animals Martin Garrix,0.677,0.866,-6.403,0.0392,0.00165,0.662,0.412,0.0386,128.005,303827,dance pop
+Black And Yellow,Wiz Khalifa,785,Black And Yellow Wiz Khalifa,0.684,0.834,-4.524,0.0675,0.0646,0.0,0.271,0.538,164.02,217667,dance pop
+If I Lose Myself - Alesso vs OneRepublic,OneRepublic,786,If I Lose Myself - Alesso vs OneRepublic OneRepublic,0.523,0.782,-4.846,0.041,0.219,1.03e-05,0.133,0.164,125.998,214813,pop
+Under Cover of Darkness,The Strokes,787,Under Cover of Darkness The Strokes,0.35,0.775,-3.364,0.054,0.00433,0.283,0.0676,0.588,199.866,235547,alternative rock
+Waiting All Night (feat. Ella Eyre),Rudimental,788,Waiting All Night (feat. Ella Eyre) Rudimental,0.544,0.728,-5.358,0.05,0.00264,0.00959,0.427,0.281,174.983,292587,tropical house
+Purple Rain,Prince & The Revolution,789,Purple Rain Prince & The Revolution,0.367,0.452,-10.422,0.0307,0.0353,0.00228,0.689,0.189,113.066,520787,funk
+Backseat Freestyle,Kendrick Lamar,790,Backseat Freestyle Kendrick Lamar,0.546,0.651,-7.601,0.3,0.000739,0.0,0.235,0.646,77.878,212653,conscious hip hop
+Daylight,Matt and Kim,791,Daylight Matt and Kim,0.57,0.798,-4.92,0.0323,0.102,0.000128,0.178,0.671,103.303,171333,brooklyn indie
+P.Y.T. (Pretty Young Thing),Michael Jackson,792,P.Y.T. (Pretty Young Thing) Michael Jackson,0.888,0.815,-4.909,0.0404,0.23,0.000424,0.127,0.961,127.273,238733,pop
+The Time (Dirty Bit),The Black Eyed Peas,793,The Time (Dirty Bit) The Black Eyed Peas,0.816,0.813,-7.798,0.0664,0.0662,2.77e-06,0.602,0.436,127.979,307640,dance pop
+Wild Ones (feat. Sia),Flo Rida,794,Wild Ones (feat. Sia) Flo Rida,0.608,0.86,-5.324,0.0554,0.0991,0.0,0.262,0.437,127.075,232947,pop
+Boys Don't Cry,The Cure,795,Boys Don't Cry The Cure,0.465,0.841,-5.767,0.0633,0.00486,0.0,0.109,0.689,168.743,157533,new wave
+Buffalo Soldier,Bob Marley & The Wailers,796,Buffalo Soldier Bob Marley & The Wailers,0.929,0.463,-8.651,0.308,0.142,5.26e-06,0.0634,0.757,124.084,255840,reggae
+Any Way You Want It,Journey,797,Any Way You Want It Journey,0.529,0.932,-7.501,0.0488,0.00251,0.00109,0.136,0.571,138.158,201693,album rock
+Busy Earnin',Jungle,798,Busy Earnin' Jungle,0.552,0.883,-5.61,0.0355,0.209,4.91e-06,0.0912,0.745,99.967,181773,indie soul
+ABC,Jackson 5,799,ABC Jackson 5,0.715,0.678,-11.842,0.0475,0.486,0.000192,0.15,0.947,94.769,177733,adult standards
+The Lazy Song,Bruno Mars,800,The Lazy Song Bruno Mars,0.794,0.711,-5.124,0.0699,0.3,0.0,0.0955,0.955,174.915,189109,dance pop
+Don't You Want Me - 2002 - Remaster,The Human League,801,Don't You Want Me - 2002 - Remaster The Human League,0.566,0.701,-9.092,0.0451,0.000916,1.64e-05,0.362,0.771,126.665,298840,art rock
+Tainted Love,Soft Cell,802,Tainted Love Soft Cell,0.5,0.501,-8.284,0.0376,0.462,0.0,0.26,0.623,144.438,153800,new romantic
+I Will Always Love You,Whitney Houston,803,I Will Always Love You Whitney Houston,0.332,0.214,-12.518,0.0349,0.845,5.62e-06,0.0839,0.11,67.531,271093,dance pop
+Rock Your Body,Justin Timberlake,804,Rock Your Body Justin Timberlake,0.892,0.714,-6.055,0.141,0.201,0.000234,0.0521,0.817,100.972,267267,dance pop
+Superstition - Single Version,Stevie Wonder,805,Superstition - Single Version Stevie Wonder,0.637,0.745,-8.607,0.0748,0.0173,0.000554,0.0372,0.859,100.384,244827,adult standards
+California Gurls - feat. Snoop Dogg,Katy Perry,806,California Gurls - feat. Snoop Dogg Katy Perry,0.794,0.743,-4.312,0.0514,0.00496,0.0,0.18,0.447,125.022,235107,dance pop
+Clique,Kanye West,807,Clique Kanye West,0.66,0.539,-5.947,0.324,0.0534,0.0,0.222,0.307,109.318,293613,rap
+Club Can't Handle Me - feat. David Guetta,Flo Rida,808,Club Can't Handle Me - feat. David Guetta Flo Rida,0.623,0.882,-2.574,0.0322,0.0205,0.0,0.194,0.525,127.98,232616,dance pop
+DJ Got Us Fallin' in Love,Usher,809,DJ Got Us Fallin' in Love Usher,0.663,0.861,-3.398,0.109,0.0338,0.0,0.082,0.654,119.963,220800,pop
+Dynamite,Taio Cruz,810,Dynamite Taio Cruz,0.751,0.783,-3.724,0.0859,0.00379,0.0,0.036,0.816,119.975,202613,dance pop
+Fireflies,Owl City,811,Fireflies Owl City,0.512,0.662,-6.797,0.0439,0.0275,0.0,0.118,0.472,180.114,228347,indietronica
+Good Feeling,Flo Rida,812,Good Feeling Flo Rida,0.706,0.89,-4.444,0.0688,0.0588,0.00286,0.306,0.684,128.011,248133,dance pop
+Good Time,Owl City,813,Good Time Owl City,0.56,0.872,-4.269,0.14,0.0239,6.98e-06,0.371,0.682,126.05,205933,post-teen pop
+Grenade,Bruno Mars,814,Grenade Bruno Mars,0.704,0.558,-7.273,0.0542,0.148,0.0,0.107,0.245,110.444,222091,dance pop
+I Love It (feat. Charli XCX) - Original Version,Icona Pop,815,I Love It (feat. Charli XCX) - Original Version Icona Pop,0.703,0.779,-8.42,0.0474,0.00776,0.531,0.0865,0.859,125.998,160183,
+Just The Way You Are,Bruno Mars,816,Just The Way You Are Bruno Mars,0.635,0.841,-5.379,0.0422,0.0134,0.0,0.0622,0.424,109.021,220734,dance pop
+Lights,Ellie Goulding,817,Lights Ellie Goulding,0.683,0.789,-6.132,0.0353,0.0283,0.0492,0.112,0.809,120.013,211800,dance pop
+Like A G6,Far East Movement,818,Like A G6 Far East Movement,0.435,0.837,-8.126,0.449,0.00676,0.0,0.117,0.778,124.913,216893,dance pop
+Love On Top,Beyoncé,819,Love On Top Beyoncé,0.652,0.748,-5.242,0.0887,0.0849,0.0,0.604,0.652,94.1,267413,dance pop
+Marry You,Bruno Mars,820,Marry You Bruno Mars,0.621,0.82,-4.865,0.0367,0.332,0.0,0.104,0.452,144.905,230192,dance pop
+On The Floor,Jennifer Lopez,821,On The Floor Jennifer Lopez,0.73,0.777,-5.194,0.0496,0.105,0.000478,0.0691,0.575,130.0,284867,pop rap
+Only Girl (In The World),Rihanna,822,Only Girl (In The World) Rihanna,0.789,0.706,-4.233,0.0429,0.112,1.71e-05,0.0586,0.638,125.911,235493,barbadian pop
+Paper Planes,M.I.A.,823,Paper Planes M.I.A.,0.447,0.848,-6.175,0.222,0.033,7.46e-05,0.65,0.485,172.253,205200,dance pop
+Party In The U.S.A.,Miley Cyrus,824,Party In The U.S.A. Miley Cyrus,0.652,0.698,-4.667,0.042,0.00112,0.000115,0.0886,0.47,96.021,202067,dance pop
+Pursuit Of Happiness - Extended Steve Aoki Remix (Explicit),Kid Cudi,825,Pursuit Of Happiness - Extended Steve Aoki Remix (Explicit) Kid Cudi,0.722,0.687,-5.189,0.0556,0.00949,0.00413,0.0462,0.619,128.013,373627,indietronica
+Raise Your Glass,P!nk,826,Raise Your Glass P!nk,0.7,0.709,-5.006,0.0838,0.0048,0.0,0.029,0.624,122.019,202960,dance pop
+Rude Boy,Rihanna,827,Rude Boy Rihanna,0.563,0.75,-4.496,0.127,0.113,0.0,0.0788,0.812,173.906,222920,barbadian pop
+Shake It Off,Taylor Swift,828,Shake It Off Taylor Swift,0.648,0.785,-5.414,0.165,0.0561,0.0,0.148,0.943,160.02,219200,pop
+Sweat (Snoop Dogg vs. David Guetta) [Remix],Snoop Dogg,829,Sweat (Snoop Dogg vs. David Guetta) [Remix] Snoop Dogg,0.813,0.732,-5.636,0.03,0.0597,0.00137,0.0826,0.731,130.02,195987,pop rap
+The Man Who Can't Be Moved,The Script,830,The Man Who Can't Be Moved The Script,0.605,0.629,-5.051,0.0279,0.437,0.0,0.097,0.308,99.894,241373,celtic rock
+Thinking About You,Calvin Harris,831,Thinking About You Calvin Harris,0.725,0.874,-3.715,0.0396,0.00262,0.000412,0.0958,0.748,127.985,247933,dance pop
+Titanium - feat. Sia,David Guetta,832,Titanium - feat. Sia David Guetta,0.604,0.788,-3.673,0.103,0.0678,0.153,0.127,0.301,126.06,245040,pop
+Turn Down for What,DJ Snake,833,Turn Down for What DJ Snake,0.818,0.799,-4.1,0.156,0.00107,0.128,0.057,0.0815,100.014,213733,pop rap
+Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup (TM) Song),Shakira,834,Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup (TM) Song) Shakira,0.766,0.873,-6.381,0.143,0.00627,0.0,0.0764,0.743,126.988,202627,colombian pop
+We Will Rock You,Queen,835,We Will Rock You Queen,0.693,0.497,-7.316,0.119,0.679,0.0,0.258,0.473,81.308,122067,classic rock
+What's My Name?,Rihanna,836,What's My Name? Rihanna,0.689,0.784,-2.972,0.074,0.182,0.0,0.0843,0.561,99.954,263173,barbadian pop
+Where Have You Been,Rihanna,837,Where Have You Been Rihanna,0.719,0.847,-6.34,0.0916,0.00201,0.0204,0.221,0.444,127.963,242680,barbadian pop
+Wide Awake,Katy Perry,838,Wide Awake Katy Perry,0.514,0.683,-5.099,0.0367,0.0749,2.64e-06,0.392,0.575,159.814,220947,dance pop
+Wiggle (feat. Snoop Dogg),Jason Derulo,839,Wiggle (feat. Snoop Dogg) Jason Derulo,0.697,0.621,-6.886,0.25,0.0802,0.0,0.162,0.721,81.946,193296,pop rap
+The Edge Of Glory,Lady Gaga,840,The Edge Of Glory Lady Gaga,0.581,0.772,-6.544,0.0401,0.000343,0.0191,0.11,0.361,127.952,320587,art pop
+Domino,Jessie J,841,Domino Jessie J,0.757,0.547,-4.573,0.0355,0.0115,0.0,0.0445,0.793,126.977,231693,dance pop
+Blame,Calvin Harris,842,Blame Calvin Harris,0.414,0.857,-4.078,0.0808,0.0287,0.00574,0.343,0.348,128.024,212960,dance pop
+FourFiveSeconds,Rihanna,843,FourFiveSeconds Rihanna,0.582,0.272,-5.662,0.0501,0.875,0.0,0.13,0.354,205.846,188238,barbadian pop
+GDFR (feat. Sage The Gemini & Lookas),Flo Rida,844,GDFR (feat. Sage The Gemini & Lookas) Flo Rida,0.657,0.827,-4.036,0.0734,0.000704,0.00534,0.065,0.69,145.889,190186,pop rap
+Heroes (we could be),Alesso,845,Heroes (we could be) Alesso,0.503,0.748,-4.124,0.0619,0.0305,0.0,0.343,0.356,125.896,210013,pop
+"Love Me Like You Do - From Fifty Shades Of Grey""""",Ellie Goulding,846,"Love Me Like You Do - From Fifty Shades Of Grey"""" Ellie Goulding",0.262,0.606,-6.646,0.0484,0.247,0.0,0.125,0.275,189.857,252534,dance pop
+Sugar,Maroon 5,847,Sugar Maroon 5,0.748,0.788,-7.055,0.0334,0.0591,0.0,0.0863,0.884,120.076,235493,pop
+Uptown Funk,Mark Ronson,848,Uptown Funk Mark Ronson,0.856,0.609,-7.223,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,269667,pop
+Another One Bites The Dust,Queen,849,Another One Bites The Dust Queen,0.933,0.528,-6.472,0.162,0.112,0.329,0.163,0.756,109.975,214653,classic rock
+Bohemian Rhapsody,Queen,850,Bohemian Rhapsody Queen,0.392,0.402,-9.961,0.0536,0.288,0.0,0.243,0.228,143.883,354320,classic rock
+Dream On,Aerosmith,851,Dream On Aerosmith,0.307,0.433,-10.057,0.029,0.388,9.08e-05,0.332,0.224,160.9,266960,album rock
+Dreams,Fleetwood Mac,852,Dreams Fleetwood Mac,0.828,0.492,-9.744,0.0276,0.0644,0.00428,0.128,0.789,120.151,257800,album rock
+Rocket Man (I Think It's Going To Be A Long Long Time),Elton John,853,Rocket Man (I Think It's Going To Be A Long Long Time) Elton John,0.601,0.532,-9.119,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,281613,glam rock
+Take On Me,a-ha,854,Take On Me a-ha,0.573,0.902,-7.638,0.054,0.018,0.00125,0.0928,0.876,84.412,225280,new romantic
+Your Song,Elton John,855,Your Song Elton John,0.554,0.315,-11.028,0.0298,0.828,5.53e-06,0.101,0.325,128.157,241787,glam rock
+Countdown,Beyoncé,856,Countdown Beyoncé,0.665,0.787,-5.73,0.151,0.308,0.0,0.219,0.699,167.349,212147,dance pop
+Halo,Beyoncé,857,Halo Beyoncé,0.508,0.72,-5.908,0.0628,0.272,0.0,0.0563,0.472,79.983,261640,dance pop
+Is This Love,Bob Marley & The Wailers,858,Is This Love Bob Marley & The Wailers,0.776,0.559,-8.375,0.103,0.11,0.0,0.0671,0.758,122.242,232200,reggae
+One,U2,859,One U2,0.392,0.534,-8.793,0.0369,0.245,0.00104,0.155,0.325,181.305,276187,irish rock
+One Way or Another,Blondie,860,One Way or Another Blondie,0.442,0.922,-5.086,0.0655,0.0532,3.86e-06,0.0768,0.855,162.272,217364,candy pop
+She Will Be Loved,Maroon 5,861,She Will Be Loved Maroon 5,0.651,0.663,-5.569,0.0281,0.228,0.0,0.0994,0.465,102.0,259453,pop
+Speed Of Sound,Coldplay,862,Speed Of Sound Coldplay,0.514,0.898,-6.765,0.0577,0.00488,0.0345,0.0746,0.353,123.067,287907,permanent wave
+Three Little Birds,Bob Marley & The Wailers,863,Three Little Birds Bob Marley & The Wailers,0.814,0.482,-10.493,0.0588,0.0111,1.57e-06,0.0476,0.615,148.404,180267,reggae
+Violet Hill,Coldplay,864,Violet Hill Coldplay,0.33,0.58,-7.875,0.0374,0.0614,0.00129,0.115,0.11,76.093,222653,permanent wave
+Ain't It Fun,Paramore,865,Ain't It Fun Paramore,0.61,0.893,-3.681,0.0921,0.154,4.41e-05,0.021,0.673,104.031,296520,candy pop
+Love Never Felt so Good,Michael Jackson,866,Love Never Felt so Good Michael Jackson,0.775,0.719,-6.212,0.0435,0.132,1.79e-06,0.0662,0.712,117.513,246027,pop
+Wasted,Tiësto,867,Wasted Tiësto,0.638,0.816,-5.503,0.0308,0.00149,0.00115,0.195,0.386,112.014,190014,big room
+All About That Bass,Meghan Trainor,868,All About That Bass Meghan Trainor,0.807,0.887,-3.726,0.0503,0.0573,2.87e-06,0.124,0.961,134.052,187920,dance pop
+Break Free,Ariana Grande,869,Break Free Ariana Grande,0.687,0.702,-5.324,0.0455,0.0064,4.35e-05,0.204,0.284,129.956,214840,pop
+...Baby One More Time,Britney Spears,870,...Baby One More Time Britney Spears,0.759,0.699,-5.745,0.0307,0.202,0.000131,0.443,0.907,92.96,211067,dance pop
+Maps,Maroon 5,871,Maps Maroon 5,0.742,0.713,-5.522,0.0303,0.0205,0.0,0.059,0.879,120.032,189960,pop
+Howlin' For You,The Black Keys,872,Howlin' For You The Black Keys,0.705,0.735,-6.646,0.0931,0.028,0.0783,0.112,0.448,132.627,191800,alternative rock
+Human,The Killers,873,Human The Killers,0.557,0.8,-8.477,0.0601,0.00132,0.0012,0.0906,0.582,135.47,245373,alternative rock
+Such Great Heights,The Postal Service,874,Such Great Heights The Postal Service,0.644,0.808,-7.268,0.0513,0.0467,0.187,0.0652,0.175,174.98,266507,indie pop
+In My Place,Coldplay,875,In My Place Coldplay,0.424,0.588,-5.455,0.0278,0.0553,4.95e-06,0.298,0.193,144.636,226680,permanent wave
+We Built This City,Starship,876,We Built This City Starship,0.661,0.908,-4.897,0.039,0.052,0.0,0.0708,0.656,144.091,296080,album rock
+D.A.N.C.E.,Justice,877,D.A.N.C.E. Justice,0.613,0.962,-5.07,0.278,0.034,0.0,0.824,0.496,113.015,242267,alternative dance
+Awake My Soul,Mumford & Sons,878,Awake My Soul Mumford & Sons,0.351,0.465,-10.313,0.0365,0.0481,0.0188,0.0912,0.224,123.75,255827,modern folk rock
+Everybody Hurts,R.E.M.,879,Everybody Hurts R.E.M.,0.467,0.324,-10.451,0.0255,0.615,0.0248,0.118,0.166,94.301,320267,alternative rock
+More Than Words,Extreme,880,More Than Words Extreme,0.626,0.134,-14.898,0.0298,0.467,0.0,0.113,0.239,91.893,334107,album rock
+Animal,Neon Trees,881,Animal Neon Trees,0.482,0.833,-5.611,0.0449,0.000346,0.0,0.365,0.74,148.039,212293,modern alternative rock
+SexyBack,Justin Timberlake,882,SexyBack Justin Timberlake,0.967,0.583,-5.562,0.0789,0.0584,0.0,0.0519,0.964,117.0,242733,pop
+Sunset,The xx,883,Sunset The xx,0.836,0.181,-15.878,0.0778,0.557,0.45,0.113,0.383,119.98,218587,downtempo
+Giorgio by Moroder,Daft Punk,884,Giorgio by Moroder Daft Punk,0.74,0.682,-10.42,0.0504,0.0692,0.53,0.381,0.41,113.201,544627,electro
+I Wanna Be Yours,Arctic Monkeys,885,I Wanna Be Yours Arctic Monkeys,0.464,0.417,-9.345,0.0256,0.136,0.022,0.0974,0.479,67.528,183956,garage rock
+Hoppípolla,Sigur Rós,886,Hoppípolla Sigur Rós,0.316,0.684,-6.447,0.0327,0.0302,0.215,0.219,0.175,139.863,268707,compositional ambient
+Rolling in the Deep,Adele,887,Rolling in the Deep Adele,0.73,0.769,-5.114,0.0298,0.138,0.0,0.0473,0.507,104.948,228093,british soul
+Poetic Justice,Kendrick Lamar,888,Poetic Justice Kendrick Lamar,0.779,0.572,-9.985,0.378,0.157,0.0,0.246,0.647,135.956,300160,rap
+m.A.A.d city,Kendrick Lamar,889,m.A.A.d city Kendrick Lamar,0.487,0.729,-6.815,0.271,0.0538,4.07e-06,0.44,0.217,91.048,350120,west coast rap
+Single Ladies (Put a Ring on It),Beyoncé,890,Single Ladies (Put a Ring on It) Beyoncé,0.426,0.584,-5.293,0.296,0.0383,0.0,0.188,0.272,193.437,193213,dance pop
+Anaconda,Nicki Minaj,891,Anaconda Nicki Minaj,0.964,0.605,-6.223,0.179,0.0668,7.78e-06,0.214,0.646,129.994,260240,dance pop
+Blood On The Leaves,Kanye West,892,Blood On The Leaves Kanye West,0.397,0.69,-4.108,0.195,0.395,0.0,0.101,0.36,172.073,359800,chicago rap
+New Slaves,Kanye West,893,New Slaves Kanye West,0.506,0.59,-4.322,0.076,0.165,1.09e-05,0.096,0.359,141.099,256093,chicago rap
+Spaceman,The Killers,894,Spaceman The Killers,0.525,0.904,-5.488,0.0532,0.00257,0.000648,0.12,0.803,151.988,284547,alternative rock
+C.R.E.A.M.,Wu-Tang Clan,895,C.R.E.A.M. Wu-Tang Clan,0.479,0.549,-10.551,0.373,0.57,0.0235,0.127,0.576,180.985,252187,hip hop
+Groove Is In The Heart,Deee-Lite,896,Groove Is In The Heart Deee-Lite,0.694,0.881,-4.053,0.0701,0.0153,0.0196,0.0851,0.924,121.554,231787,hip house
+Hold On,Alabama Shakes,897,Hold On Alabama Shakes,0.574,0.667,-5.425,0.0301,0.206,0.352,0.0852,0.546,88.299,226187,alabama indie
+Doo Wop (That Thing),Lauryn Hill,898,Doo Wop (That Thing) Lauryn Hill,0.535,0.505,-8.926,0.245,0.0393,0.0,0.0923,0.495,99.935,320267,conscious hip hop
+Perth,Bon Iver,899,Perth Bon Iver,0.471,0.453,-14.463,0.0462,0.856,0.537,0.326,0.0677,119.959,262080,eau claire indie
+Ignition (Remix),R. Kelly,900,Ignition (Remix) R. Kelly,0.795,0.523,-7.165,0.0423,0.061,0.0,0.0914,0.855,133.024,186067,"Sorry, that one does not seem to be on any of  Spotify data yet"
+Big Poppa,The Notorious B.I.G.,901,Big Poppa The Notorious B.I.G.,0.78,0.575,-7.247,0.273,0.43,0.0,0.143,0.773,84.492,252747,east coast hip hop
+Still D.R.E.,Dr. Dre,902,Still D.R.E. Dr. Dre,0.816,0.775,-3.323,0.234,0.16,0.00031,0.0543,0.527,93.431,270587,west coast rap
+Hunger Of The Pine,alt-J,903,Hunger Of The Pine alt-J,0.6,0.413,-9.572,0.0258,0.785,0.0289,0.109,0.0741,93.618,299711,indie rock
+Loser,Beck,904,Loser Beck,0.654,0.611,-10.45,0.119,0.0337,0.000178,0.405,0.786,85.387,235000,alternative rock
+Santeria,Sublime,905,Santeria Sublime,0.682,0.765,-5.021,0.0395,0.0268,3.42e-05,0.188,0.567,90.807,182747,reggae fusion
+That's Not My Name,The Ting Tings,906,That's Not My Name The Ting Tings,0.755,0.901,-3.152,0.0893,0.0451,0.0373,0.363,0.959,145.042,310573,alternative dance
+What I Got,Sublime,907,What I Got Sublime,0.804,0.696,-7.47,0.0899,0.00877,0.000985,0.314,0.657,95.721,170907,reggae fusion
+Dancing On My Own,Robyn,908,Dancing On My Own Robyn,0.573,0.926,-6.045,0.0342,0.00202,0.0117,0.127,0.219,117.047,278080,art pop
+Gettin' Jiggy Wit It,Will Smith,909,Gettin' Jiggy Wit It Will Smith,0.881,0.874,-4.505,0.139,0.0175,1.14e-06,0.154,0.858,107.891,227933,hip hop
+Run the World (Girls),Beyoncé,910,Run the World (Girls) Beyoncé,0.733,0.899,-4.237,0.143,0.00496,4.72e-05,0.372,0.76,127.086,236093,dance pop
+Fragments of Time,Daft Punk,911,Fragments of Time Daft Punk,0.807,0.51,-9.729,0.0433,0.041,0.115,0.104,0.961,130.118,279773,electro
+Kiss,Prince & The Revolution,912,Kiss Prince & The Revolution,0.898,0.271,-12.238,0.091,0.0135,0.00138,0.0461,0.742,111.485,226240,funk
+Superstition,Stevie Wonder,913,Superstition Stevie Wonder,0.611,0.578,-14.171,0.0676,0.0598,0.0219,0.0983,0.884,100.625,266133,adult standards
+Every Breath You Take,The Police,914,Every Breath You Take The Police,0.82,0.452,-9.796,0.0348,0.543,0.00294,0.0714,0.74,117.401,253920,album rock
+I'm Shipping Up To Boston,Dropkick Murphys,915,I'm Shipping Up To Boston Dropkick Murphys,0.452,0.928,-3.133,0.079,0.000706,0.000637,0.226,0.6,129.188,153600,boston punk
+DARE,Gorillaz,916,DARE Gorillaz,0.76,0.891,-5.852,0.0372,0.0229,0.0869,0.298,0.966,120.264,245000,alternative hip hop
+Love Me Harder,Ariana Grande,917,Love Me Harder Ariana Grande,0.472,0.714,-4.389,0.0334,0.00937,0.0,0.0764,0.24,98.992,236133,pop
+Smooth Criminal,Alien Ant Farm,918,Smooth Criminal Alien Ant Farm,0.653,0.964,-4.261,0.0582,0.00316,0.00512,0.144,0.87,126.928,209267,alternative metal
+Blue Jeans,Lana Del Rey,919,Blue Jeans Lana Del Rey,0.558,0.837,-4.405,0.0633,0.418,0.0,0.0821,0.488,117.963,209440,art pop
+Can't Remember to Forget You,Shakira,920,Can't Remember to Forget You Shakira,0.694,0.81,-3.556,0.0661,0.122,0.0,0.141,0.824,137.968,206867,pop
+Wild for the Night,A$AP Rocky,921,Wild for the Night A$AP Rocky,0.757,0.848,-4.234,0.335,0.0481,0.0,0.121,0.686,139.995,212640,east coast hip hop
+Fuck You,Cee Lo Green,922,Fuck You Cee Lo Green,0.69,0.834,-5.79,0.0566,0.129,0.0,0.136,0.738,127.43,222933,atl hip hop
+Black Widow,Iggy Azalea,923,Black Widow Iggy Azalea,0.743,0.72,-3.753,0.124,0.192,0.000386,0.109,0.519,163.99,209423,post-teen pop
+Feel It All Around,Washed Out,924,Feel It All Around Washed Out,0.34,0.737,-4.681,0.0582,0.000105,0.762,0.0699,0.499,172.022,192080,alternative dance
+Beyond,Daft Punk,925,Beyond Daft Punk,0.716,0.648,-11.33,0.0337,0.367,0.485,0.368,0.789,104.022,290240,electro
+Contact,Daft Punk,926,Contact Daft Punk,0.4,0.756,-8.423,0.0492,0.00282,0.753,0.0695,0.0924,123.828,383627,electro
+Motherboard,Daft Punk,927,Motherboard Daft Punk,0.548,0.707,-14.902,0.0352,0.512,0.922,0.105,0.284,103.009,341653,electro
+The Game of Love,Daft Punk,928,The Game of Love Daft Punk,0.712,0.5,-11.948,0.0338,0.825,0.314,0.106,0.682,90.039,322147,electro
+Touch,Daft Punk,929,Touch Daft Punk,0.29,0.412,-12.659,0.0458,0.477,0.0839,0.079,0.12,90.539,498960,electro
+Within,Daft Punk,930,Within Daft Punk,0.702,0.297,-14.116,0.0317,0.894,0.485,0.103,0.0676,110.116,228507,electro
+Seasons (Waiting On You),Future Islands,931,Seasons (Waiting On You) Future Islands,0.498,0.721,-5.232,0.0282,0.136,0.699,0.0933,0.589,140.022,226440,alternative dance
+Blue Monday,New Order,932,Blue Monday New Order,0.762,0.651,-13.34,0.0655,0.00198,0.856,0.111,0.941,130.395,449160,art rock
+Gonna Make You Sweat (Everybody Dance Now),C & C Music Factory,933,Gonna Make You Sweat (Everybody Dance Now) C & C Music Factory,0.557,0.798,-7.405,0.0935,0.000851,0.675,0.183,0.794,112.187,244093,diva house
+Jeremy,Pearl Jam,934,Jeremy Pearl Jam,0.285,0.846,-6.472,0.0438,0.0404,0.0,0.182,0.287,108.808,318227,grunge
+Reunion,M83,935,Reunion M83,0.428,0.824,-5.022,0.0459,5.85e-05,0.000253,0.126,0.275,124.006,235374,french shoegaze
+Wait,M83,936,Wait M83,0.437,0.229,-10.514,0.0308,0.221,0.0599,0.0935,0.0754,147.911,343253,french shoegaze
+Mrs. Robinson,Simon & Garfunkel,937,Mrs. Robinson Simon & Garfunkel,0.606,0.457,-14.035,0.0497,0.713,2.53e-05,0.0747,0.813,92.033,244027,classic rock
+Closer,Tegan And Sara,938,Closer Tegan And Sara,0.588,0.751,-7.588,0.0328,0.00174,6.57e-05,0.353,0.52,136.979,209280,canadian indie
+Till the World Ends,Britney Spears,939,Till the World Ends Britney Spears,0.693,0.705,-5.747,0.0665,0.0228,0.0,0.202,0.45,131.951,237947,dance pop
+Don't Move,Phantogram,940,Don't Move Phantogram,0.558,0.642,-5.206,0.0321,7.19e-05,0.00746,0.201,0.482,99.977,258187,electropop
+Closer,Kings Of Leon,941,Closer Kings Of Leon,0.398,0.768,-4.624,0.0392,0.469,2.02e-05,0.106,0.235,108.685,237480,modern rock
+I Gave You All,Mumford & Sons,942,I Gave You All Mumford & Sons,0.378,0.298,-13.167,0.0389,0.423,0.00309,0.11,0.0389,114.926,260027,modern folk rock
+White Blank Page,Mumford & Sons,943,White Blank Page Mumford & Sons,0.23,0.406,-9.984,0.0351,0.2,1.68e-05,0.555,0.303,80.082,254160,modern folk rock
+Hopeless Wanderer,Mumford & Sons,944,Hopeless Wanderer Mumford & Sons,0.268,0.578,-7.796,0.0383,0.0137,0.00281,0.106,0.201,154.204,307853,modern folk rock
+Roll Away Your Stone,Mumford & Sons,945,Roll Away Your Stone Mumford & Sons,0.436,0.548,-9.174,0.0474,0.06,3.64e-05,0.0903,0.189,137.294,263920,modern folk rock
+Sigh No More,Mumford & Sons,946,Sigh No More Mumford & Sons,0.485,0.333,-10.311,0.0299,0.0251,0.000252,0.306,0.214,147.769,207987,modern folk rock
+Feeling Good,Nina Simone,947,Feeling Good Nina Simone,0.399,0.326,-9.239,0.0386,0.864,0.0,0.191,0.546,79.206,174000,adult standards
+Mr. Saxobeat - Radio Edit,Alexandra Stan,948,Mr. Saxobeat - Radio Edit Alexandra Stan,0.705,0.927,-4.179,0.0518,0.0304,0.000264,0.0766,0.8,126.995,195373,dance pop
